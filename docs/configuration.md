@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Creating and Deleting GitHub Account
 nav_order: 2
 ---
 
