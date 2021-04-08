@@ -4,9 +4,9 @@ title: Creating and Deleting GitHub Account
 nav_order: 2
 ---
 
-# Configuration
+# Create a GitHub Account
 {: .no_toc }
-
+<!-- 
 
 Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
 {: .fs-6 .fw-300 }
@@ -175,7 +175,7 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
-```
+``` -->
 
 You can reference multiple collections.
 This creates categories in the navigation with the configured names.
