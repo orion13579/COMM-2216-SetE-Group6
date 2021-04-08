@@ -6,6 +6,7 @@ nav_order: 2
 
 # Create a GitHub Account
 {: .no_toc }
+![](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Image%201%20-%20GitHub%20webpage.PNG?raw=true "GitHub Webpage")
 <!-- 
 
 Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
@@ -175,7 +176,7 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
-``` -->
+``` 
 
 You can reference multiple collections.
 This creates categories in the navigation with the configured names.
@@ -195,4 +196,6 @@ just_the_docs:
     tutorials:
       name: Tutorials
 ```
+-->
+
 
