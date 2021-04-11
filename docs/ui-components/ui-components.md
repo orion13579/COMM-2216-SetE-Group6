@@ -8,5 +8,11 @@ permalink: /docs/ui-components
 
 # Basic Configuration of User Profile
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+To start working with GitHub after creating a user account, it is vital to set some basic configurations in the User Profile.
+
+This section goes over how to set these cofigurations before starting to work with your account.
+
+After signing up and logging in for the first time, there are 3 different ways to access User Profile and make desirable changes to this page.
+
+[](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/HomePageToProfile-edited.png?raw=true "Access to User Profile from Home Page")
 {: .fs-6 .fw-300 }
