@@ -1,18 +1,33 @@
 ---
 layout: default
-title: Basic Configuration of User Settings
+title: Basic Configuration of user account Settings
 nav_order: 3
 has_children: true
 permalink: /docs/ui-components
 ---
 
-# Basic Configuration of User Settings
+# Basic Configuration of user account Settings
 
 To start working with GitHub after creating a user account, it is vital to set some basic configurations in the _Settings_.
 
 This section goes over how to set these cofigurations before starting to work with your account.
 
-After signing up and logging in for the first time, there are 3 different ways to access and make changes to this _Settings_ page.
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
+## Accessing the Settings page
+
+After signing up and logging in for the first time, there are two different ways to access and make changes to this _Settings_ page.
 
 !["2 Ways to access to Settings from the Home Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/HomePageToProfile-edited.png?raw=true)
 
@@ -30,23 +45,10 @@ At this point, you will be redirected to the _User Profile_ section of the _Sett
 
 !["Five covered sections of settings"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/SettingsMainPage-edited.png?raw=true)
 
-{: .no_toc }
+## Profile section
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+## Account section
 
----
+## Account Security section
 
-## Profile
-
-## Account
-
-## Account Security
-
-## Emails
+## Emails section
