@@ -24,8 +24,29 @@ Note: The second choice, which by clicking on the green _Edit profile_ button re
 
 !["Steps to access Settings from the Home Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/HomePageToProfile-edited2.png?raw=true)
 
-2- Select _Settings_ (1st option shown in the figure above)
+2- Select _Settings_ from the opened dropdown menu.
 
 At this point, you will be redirected to the _User Profile_ section of the _Settings_ page of your account. In this insruction, 5 sections of this _Settings_ page will be covered separately to help you set basic configurations of your user account.
 
 !["Five covered sections of settings"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/SettingsMainPage-edited.png?raw=true)
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
+## Profile
+
+## Account
+
+## Account Security
+
+## Emails
