@@ -26,6 +26,6 @@ Note: The second choice, which by clicking on the green _Edit profile_ button re
 
 2- Select _Settings_ (1st option shown in the figure above)
 
-At this point, you will be redirected to the _User Profile_ section of the _Settings_ page of your account.
+At this point, you will be redirected to the _User Profile_ section of the _Settings_ page of your account. In this insruction, 5 sections of this _Settings_ page will be covered separately to help you set basic configurations of your user account.
 
-{: .fs-6 .fw-300 }
+!["Five covered sections of settings"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/SettingsMainPage-edited.png?raw=true)
