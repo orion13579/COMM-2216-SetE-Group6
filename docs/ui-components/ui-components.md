@@ -14,5 +14,5 @@ This section goes over how to set these cofigurations before starting to work wi
 
 After signing up and logging in for the first time, there are 3 different ways to access User Profile and make desirable changes to this page.
 
-[](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/HomePageToProfile-edited.png?raw=true "Access to User Profile from Home Page")
+!["Access to User Profile from Home Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/HomePageToProfile-edited.png?raw=true)
 {: .fs-6 .fw-300 }
