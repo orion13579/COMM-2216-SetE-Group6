@@ -110,7 +110,7 @@ Your name may appear around GitHub where you contribute or are mentioned. It is 
 
 To change your name, you simply need to do 2 steps.
 
-**1.** Type your prefered public name that you prefer to appear around GitHub in the _Name_ field.
+**1.** Fill a public name that you prefer to appear around GitHub in the _Name_ field.
 
 !["Changing Public Name"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/EditName.png?raw=true)
 
@@ -140,7 +140,25 @@ In addition to editing your profile name and picture, you may add other optional
 
 ## Account section
 
+In the account section of the _Settings_ page, you can change your GitHub username, _Export account data_ whenever you intend to migrate data from this account, and _Delete account_ if you intend to remove your account and its data from GitHub.
+
+**Caution:** Any changes covered in this section can have unintended side effects or irreversible consequences.
+
 ### Changing Username
+
+Changing a previously chosen _GitHub username_, which is different from changing your publicly shown _Profile Name_, may be required in special situations. Here we will cover the instructions required if, at any point, this change will be required.
+
+**Caution:** As changing _GitHub username_ may result in unintended side effects such as loosing redirects to your previously created Pages sites or Repositories, prior to any change of the username, read all the provided links by GitHub carefully.
+
+**1.** Click on _Change username_ after clicking on _unintended side effects_ and reading about its probable consequences.
+
+!["Changing GitHub Username"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangingUsername.png?raw=true)
+
+**2.** Click on the _I understand, let's change my username_ button in the opened window if you agree and intend to proceed.
+
+!["Warning for User account"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/UseraccountChangeWarning.png?raw=true)
+
+**3.** Follow the steps of the provided wizard, which is mostly the same as steps you took to create your previos GitHub account.
 
 ### Exporting Account Data
 
