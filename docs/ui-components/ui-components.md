@@ -33,7 +33,7 @@ After signing up and logging in for the first time, there are two different ways
 
 Although at this point, there are two separate ways available to access to this page, the first one described here will be your default choice, as it allows you to access the full configuration of the _User Profile_ page when you are logged in from any other page.
 
-  Note: The second choice, which by clicking on the green _Edit profile_ button redirects you to the same _User Profile_ section of the _Settings_ page, is only available as an initial tip to first time users.
+  **Note:** The second choice, which by clicking on the green _Edit profile_ button redirects you to the same _User Profile_ section of the _Settings_ page, is only available as an initial tip to first time users.
 
 **1.** Click on the most right side button of the navigation page to open the menu.
 
@@ -55,7 +55,7 @@ During the sign up proccess to create your GitHub account, you have been asked t
 
 By following this section, you would be able to add other email addresses for different purposes, change your _Primary Email Address_ to another email address, and choose a setting for your _Backup Email Address_ if needed.
 
-  Caution: None of these steps are necessary if you do not intend to add other email accounts to your GitHub account.
+  **Caution:** None of these steps are necessary if you do not intend to add other email accounts to your GitHub account.
 
 ### Adding another Email Address
 
@@ -83,7 +83,7 @@ To add a secondary email address to your GitHub account, or prior to change your
 ### Changing Backup Email Address Settings
 
 By following these steps, you can switch the setting for your backup email address between _Allow all verified emails_ and _Only allow primary email_.
-  Note: As you can see on the screen "Your backup GitHub email address will be used as an additional destination for security-relevant account notifications and can also be used for password resets".
+  **Note:** As you can see on the screen "Your backup GitHub email address will be used as an additional destination for security-relevant account notifications and can also be used for password resets".
 
 **1.** Click on the up/down arrows within the shown section.
 !["Backup Email Address Settings"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangeSettingForBackupEmailAddress.png?raw=true)
