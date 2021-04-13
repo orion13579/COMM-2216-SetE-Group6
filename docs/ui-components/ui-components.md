@@ -36,7 +36,6 @@ Although at this point, there are two separate ways available to access to this 
 Note: The second choice, which by clicking on the green _Edit profile_ button redirects you to the same _User Profile_ section of the _Settings_ page, is only available as an initial tip to first time users.
 
 1. Click on the most right side button of the navigation page to open the menu.
-
 !["Steps to access Settings from the Home Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/HomePageToProfile-edited2.png?raw=true)
 
 2. Select _Settings_ from the opened dropdown menu.
