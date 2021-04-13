@@ -43,12 +43,15 @@ Although at this point, there are two separate ways available to access to this 
 **2.** Select _Settings_ from the opened dropdown menu.
 
   At this point, you will be redirected to the _User Profile_ section of the _Settings_ page of your account. In this insruction, 5 sections of this _Settings_ page will be covered separately to help you set basic configurations of your user account.
+  {: .p-3rem }
 
 !["Five covered sections of settings"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/SettingsMainPage-edited.png?raw=true)
 
   By clicking on each item of the left sidebar, any section of this _Settings_ page can be chosen. Here, we will walk through 5 of these sections to help you set up the basic configuration.
+  {: .p-3rem }
 
   It is recommended to start from _Emails_ section before setting up the _Profile_ section. By configuring this section first, there will be no need to go back and forth between different sections.
+  {: .p-3rem }
 
 ## Emails section
 
