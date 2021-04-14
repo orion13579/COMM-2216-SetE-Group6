@@ -40,7 +40,7 @@ Although at this point, there are two separate ways available to access to this 
 
 !["Steps to access Settings from the Home Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/HomePageToProfile-edited2.png?raw=true)
 
-**2.** Select _Settings_ from the opened dropdown menu.
+**2.** Select **Settings** from the opened dropdown menu.
 
   At this point, you will be redirected to the _User Profile_ section of the _Settings_ page of your account. In this insruction, 5 sections of this _Settings_ page will be covered separately to help you set basic configurations of your user account.
   {: .p-3rem }
@@ -69,9 +69,9 @@ To add a secondary email address to your GitHub account, or prior to change your
 
 !["Adding anotherEmail Address"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/AddEmailAddress.png?raw=true)
 
-**2.** Click _Add_ button next to that field.
+**2.** Click **Add** button next to that field.
 
-**3.** Click on "Verify" link of an email which will be send to your newly added email address.
+**3.** Click on **Verify** link of an email which will be send to your newly added email address.
 
 ### Changing Primary Email Address
 
@@ -82,7 +82,7 @@ To add a secondary email address to your GitHub account, or prior to change your
 
 **2.** Choose your preferred _Primary Email Address_ from the dropdown list.
 
-**3.** Click _Save_ button next to this dropdown list.
+**3.** Click **Save** button next to this dropdown list.
 
 ### Changing Backup Email Address Settings
 
@@ -94,7 +94,7 @@ By following these steps, you can switch the setting for your backup email addre
 
 **2.** Choose your preferrence between _Allow all verified emails_ and _Only allow primary email_ from the dropdown list.
 
-**3.** Click _Save_ button next to this dropdown list.
+**3.** Click **Save** button next to this dropdown list.
 
 ## Profile section
 
@@ -114,7 +114,7 @@ To change your name, you simply need to do 2 steps.
 
 !["Changing Public Name"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/EditName.png?raw=true)
 
-**2.** Click the green _Update profile_ button in the middle of the page.
+**2.** Click the green **Update profile** button in the middle of the page.
 
 ### Changing Profile Picture
 
@@ -122,11 +122,11 @@ Your picture may also appear around GitHub same as your name where you contribut
 
 To add a new picture, or to remove your previous one, you need to do 2 steps.
 
-**1.** Click on the _Edit_ button under the _Profile picture_ on the right side of this section.
+**1.** Click on the **Edit** button under the _Profile picture_ on the right side of this section.
 
 !["Edit Profile picture"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/EditProfilePicture.png?raw=true)
 
-**2.** Click on _Upload a photo_ and choose your prefered image, or click _Remove photo_ from the opened dropdown list if you intend to remove the previously chosen image for your profile.
+**2.** Click on **Upload a photo** and choose your prefered image, or click _Remove photo_ from the opened dropdown list if you intend to remove the previously chosen image for your profile.
 
 ### Adding Additional Information
 
@@ -136,7 +136,7 @@ In addition to editing your profile name and picture, you may add other optional
 
 !["Edit Profile info"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/EditAdditionalInfo.png?raw=true)
 
-**2.** Click the green _Update profile_ button in the middle of the page.
+**2.** Click the green **Update profile** button in the middle of the page.
 
 ## Account section
 
@@ -152,11 +152,11 @@ Changing a previously chosen _GitHub username_, which is different from changing
 
 **Caution:** As changing _GitHub username_ may result in unintended side effects such as loosing redirects to your previously created Pages sites or Repositories, prior to any change of the username, read all the provided links by GitHub carefully.
 
-**1.** Click on _Change username_ after clicking on _unintended side effects_ and reading about its probable consequences.
+**1.** Click on **Change username** after reading about **unintended side effects** by the provided link and probable consequences of changing a user account.
 
 !["Changing GitHub Username"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangingUsername.png?raw=true)
 
-**2.** Click on the _I understand, let's change my username_ button in the opened window if you agree and intend to proceed.
+**2.** Click on the **I understand, let's change my username** button in the opened window if you agree and intend to proceed.
 
 !["Warning for User account"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/UseraccountChangeWarning.png?raw=true)
 
@@ -166,7 +166,7 @@ Changing a previously chosen _GitHub username_, which is different from changing
 
 By following these steps, you can export all repositories and profile metadata of your account.
 
-**1.** Click on the _Start export_ button.
+**1.** Click on the **Start export** button.
 
 !["Export account data"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ExportingAccountData.png?raw=true)
 
@@ -176,17 +176,17 @@ After minutes, you will receive an email in your chosen Backup Email Address for
 
 !["Export message"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ExportInProgress.png?raw=true)
 
-**3.** Click on the blue _Download export_ bottun and save it somewhere safe in your hard drive.
+**3.** Click on the blue **Download export** bottun and save it somewhere safe in your hard drive.
 
 !["Download Export button"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DownloadExport.png?raw=true)
 
 ### Deleting GitHub Account
 
-If at any point, you decide to delete your GitHub account and its repositories, you can do so by clicking on the red _Delete your account_ on this account section of the _Settings_ page.
+If at any point, you decide to delete your GitHub account and its repositories, you can do so by clicking on the red **Delete your account** on this account section of the _Settings_ page.
 
 **Warning:** Once you delete your account by doing these steps, there is no going back. All of your repositories, along with all of your forks, wikis, issues, pull requests, and GitHub Pages sites will be deleted, and your username will be available to anyone on GitHub.
 
-**1.** Click on the red _Delete your account button.
+**1.** Click on the red **Delete your account** button.
 
 !["Deleting user account"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DeletingAccount.png?raw=true)
 
@@ -194,7 +194,7 @@ At this point, you will receive a confirmation message in a pop-up window.
 
 !["Delete account confirmation window"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DeleteAccountConfirmation.png?raw=true)
 
-**2.**  Type your username or email address in the first field, and type the shown message in the second. Once done, you can click on the _cancel plan and delete this account_ button to completely remove your account and its data from GitHub.
+**2.**  Type your username or email address in the first field, and type the shown message in the second. Once done, you can click on the **cancel plan and delete this account** button to completely remove your account and its data from GitHub.
 
 ## Account Security section
 
