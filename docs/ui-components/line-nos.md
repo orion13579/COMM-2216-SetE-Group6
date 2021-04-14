@@ -1,115 +1,75 @@
 ---
 layout: default
-title: Code with line numbers
-parent: Code
-grand_parent: UI Components
-permalink: /docs/ui-components/code/line-numbers/
+title: Account section
+parent: Account Settings Configuration
+nav_order: 4
 ---
 
-# Code snippets with line numbers
+## Account section
 
-The default settings for HTML compression are incompatible with the HTML
-produced by Jekyll (4.1.1 or earlier) for line numbers from highlighted code
--- both when using Kramdown code fences and when using Liquid highlight tags.
+{: .no_toc }
 
-To avoid non-conforming HTML and unsatisfactory layout, HTML compression
-can be turned off by using the following configuration option:
+## Table of contents
 
-{% highlight yaml %}
-compress_html:
-  ignore:
-    envs: all
-{% endhighlight %}
+{: .no_toc .text-delta }
 
-When using Kramdown code fences, line numbers are turned on globally by the
-following configuration option:
+1. TOC
+{:toc}
 
-{% highlight yaml %}
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
-{% endhighlight %}
+---
 
-Line numbers can then be suppressed locally using Liquid tags (_without_ the
-`linenos` option) instead of fences:
+This section is not a part of basic configuration of a newly created user account. However, this will help you with some steps that may become handy after a while.
 
-{% highlight yaml %}
-{% raw %}{% highlight some_language %}
-Some code
-{% endhighlight %}{% endraw %}
-{% endhighlight %}
+In the account section of the _Settings_ page, you can change your GitHub username, _Export account data_ whenever you intend to migrate data from this account, and _Delete account_ if you intend to remove your account and its data from GitHub.
 
-## Workarounds
+**Caution:** Any changes covered in this section can have unintended side effects or irreversible consequences.
 
-To use HTML compression together with line numbers, all highlighted code
-needs to be wrapped using one of the following workarounds.
-(The variable name `some_var` can be changed to avoid clashes; it can also
-be replaced by `code` -- but note that `code=code` cannot be removed).
+### Changing Username
 
-### Code fences (three backticks)
+Changing a previously chosen _GitHub username_, which is different from changing your publicly shown _Profile Name_, may be required in special situations. Here we will cover the instructions required if, at any point, this change will be required.
 
-{% highlight default %}
-{% raw %}{% capture some_var %}
-```some_language
-Some code
-```
-{% endcapture %}
-{% assign some_var = some_var | markdownify %}
-{% include fix_linenos.html code=some_var %}{% endraw %}
-{% endhighlight %}
+**Caution:** As changing _GitHub username_ may result in unintended side effects such as loosing redirects to your previously created Pages sites or Repositories, prior to any change of the username, read all the provided links by GitHub carefully.
 
-### Liquid highlighting
+**1.** Click on **Change username** after reading about **unintended side effects** by the provided link and probable consequences of changing a user account.
 
-{% highlight default %}
-{% raw %}{% capture some_var %}
-{% highlight some_language linenos %}
-Some code
-{% endhighlight %}
-{% endcapture %}
-{% include fix_linenos.html code=some_var %}{% endraw %}
-{% endhighlight %}
+!["Changing GitHub Username"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangingUsername.png?raw=true)
 
-_Credit:_ The original version of the above workaround was suggested by
-Dmitry Hrabrov at
-<https://github.com/penibelst/jekyll-compress-html/issues/71#issuecomment-188144901>.
+**2.** Click on the **I understand, let's change my username** button in the opened window if you agree and intend to proceed.
 
-## Examples
+!["Warning for User account"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/UseraccountChangeWarning.png?raw=true)
 
-✅ Using code fences + workaround (will only show line numbers if enabled globally in `_config.yml`):
+**3.** Follow the steps of the provided wizard, which is mostly the same as steps you took to create your previos GitHub account.
 
-{% capture code_fence %}
-```js
-// Javascript code with syntax highlighting in fences
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-{% endcapture %}
-{% assign code_fence = code_fence | markdownify %}
-{% include fix_linenos.html code=code_fence %}
+### Exporting Account Data
 
-✅ Using liquid highlighting + workaround:
+By following these steps, you can export all repositories and profile metadata of your account.
 
-{% capture code %}
-{% highlight ruby linenos %}
-# Ruby code with syntax highlighting and fixed line numbers using Liquid
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
-{% endcapture %}
-{% include fix_linenos.html code=code %}
-{% assign code = nil %}
+**1.** Click on the **Start export** button.
 
-❌ With the default configuration options, the following example illustrates
-the **incorrect** formatting arising from the incompatibility of HTML compression
-and the non-conforming HTML produced by Jekyll for line numbers:
+!["Export account data"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ExportingAccountData.png?raw=true)
 
-{% highlight ruby linenos %}
-# Ruby code with syntax highlighting and unfixed line numbers using Liquid
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
+**2.** A message will be shown in the same box reporting that the exported is being prepared, and and email will be sent to your acount when it is finished.
+
+After minutes, you will receive an email in your chosen Backup Email Address for GitHub account (described above).
+
+!["Export message"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ExportInProgress.png?raw=true)
+
+**3.** Click on the blue **Download export** bottun and save it somewhere safe in your hard drive.
+
+!["Download Export button"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DownloadExport.png?raw=true)
+
+### Deleting GitHub Account
+
+If at any point, you decide to delete your GitHub account and its repositories, you can do so by clicking on the red **Delete your account** on this account section of the _Settings_ page.
+
+**Warning:** Once you delete your account by doing these steps, there is no going back. All of your repositories, along with all of your forks, wikis, issues, pull requests, and GitHub Pages sites will be deleted, and your username will be available to anyone on GitHub.
+
+**1.** Click on the red **Delete your account** button.
+
+!["Deleting user account"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DeletingAccount.png?raw=true)
+
+At this point, you will receive a confirmation message in a pop-up window.
+
+!["Delete account confirmation window"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DeleteAccountConfirmation.png?raw=true)
+
+**2.**  Type your username or email address in the first field, and type the shown message in the second. Once done, you can click on the **cancel plan and delete this account** button to completely remove your account and its data from GitHub.
