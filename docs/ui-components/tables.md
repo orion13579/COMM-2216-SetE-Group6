@@ -7,6 +7,17 @@ nav_order: 1
 
 ## Accessing the Settings page
 
+{: .no_toc }
+
+## Table of contents
+
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 After signing up and logging in for the first time, there are two different ways to access and make changes to this _Settings_ page.
 
 !["2 Ways to access to Settings from the Home Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/HomePageToProfile-edited.png?raw=true)
