@@ -49,6 +49,7 @@ By following these steps, you can export all repositories and profile metadata o
 **2.** A message will be shown in the same box reporting that the exported is being prepared, and and email will be sent to your acount when it is finished.
 
 After minutes, you will receive an email in your chosen Backup Email Address for GitHub account (described above).
+{: .pl-6 }
 
 !["Export message"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ExportInProgress.png?raw=true)
 
@@ -67,6 +68,7 @@ If at any point, you decide to delete your GitHub account and its repositories, 
 !["Deleting user account"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DeletingAccount.png?raw=true)
 
 At this point, you will receive a confirmation message in a pop-up window.
+{: .pl-6 }
 
 !["Delete account confirmation window"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DeleteAccountConfirmation.png?raw=true)
 

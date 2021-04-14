@@ -20,7 +20,7 @@ During the sign up proccess to create your GitHub account, you have been asked t
 
 By following this section, you would be able to add other email addresses for different purposes, change your _Primary Email Address_ to another email address, and choose a setting for your _Backup Email Address_ if needed.
 
-|   **Caution:** None of these steps are necessary if you do not intend to add other email accounts to your GitHub account.{: .fs-8 }
+|   **Caution:** None of these steps are necessary if you do not intend to add other email accounts to your GitHub account.
 
 ## Adding another Email Address
 
