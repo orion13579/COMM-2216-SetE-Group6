@@ -2,10 +2,10 @@
 layout: default
 title: Emails section
 parent: Account Settings Configuration
-nav_order: 1
+nav_order: 2
 ---
 
-# Typography
+## Emails section
 {: .no_toc }
 
 ## Table of contents
@@ -16,99 +16,43 @@ nav_order: 1
 
 ---
 
-## Font stack
+During the sign up proccess to create your GitHub account, you have been asked to provide an email address to connect your GitHub account to your email account. That email address has been stored as your _Primary Email Address_ which will be used as a way to answer security related checks for your account, making backups, and also for sending notifications when you are follownig, watching, or working with others inside GitHub. However, you may intend to add another email address for different reasons, such as adding a private email address beside your work email, changing your connected email address to your GitHub account, or having two connected email addresses for security related reasons.
 
-By default, Just the Docs uses a native system font stack for sans-serif fonts:
+By following this section, you would be able to add other email addresses for different purposes, change your _Primary Email Address_ to another email address, and choose a setting for your _Backup Email Address_ if needed.
 
-```scss
-system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
-```
+  **Caution:** None of these steps are necessary if you do not intend to add other email accounts to your GitHub account.
 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .code-example }
+### Adding another Email Address
 
-For monospace type, like code snippets or the `<pre>` element, Just the Docs uses a native system font stack for monospace fonts:
+To add a secondary email address to your GitHub account, or prior to change your connected email address, follow these 3 steps.
 
-```scss
-"SFMono-Regular", Menlo, Consolas, Monospace
-```
+**1.** Type the new email address that you want to add in the provided field shown below.
 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-{: .fs-5 .ls-10 .text-mono .code-example }
+!["Adding anotherEmail Address"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/AddEmailAddress.png?raw=true)
 
----
+**2.** Click **Add** button next to that field.
 
-## Responsive type scale
+**3.** Click on **Verify** link of an email which will be send to your newly added email address.
 
-Just the Docs uses a responsive type scale that shifts depending on the viewport size.
+### Changing Primary Email Address
 
-| Selector              | Small screen size `font-size`    | Large screen size `font-size` |
-|:----------------------|:---------------------------------|:------------------------------|
-| `h1`, `.text-alpha`   | 32px                             | 36px                          |
-| `h2`, `.text-beta`    | 18px                             | 24px                          |
-| `h3`, `.text-gamma`   | 16px                             | 18px                          |
-| `h4`, `.text-delta`   | 14px                             | 16px                          |
-| `h5`, `.text-epsilon` | 16px                             | 18px                          |
-| `h6`, `.text-zeta`    | 18px                             | 24px                          |
-| `body`                | 14px                             | 16px                          |
+  At any point, if you have added a secondary email address to your GitHub accound, you can change your _Primary Email Address_ fron one to another by following these steps.
 
----
+**1.** Click on the up/down arrows within the shown section.
+!["Changing Primary Email Address"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangePrimaryEmailAddress.png?raw=true)
 
-## Headings
+**2.** Choose your preferred _Primary Email Address_ from the dropdown list.
 
-Headings are rendered like this:
+**3.** Click **Save** button next to this dropdown list.
 
-<div class="code-example">
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
-<h3>Heading 3</h3>
-<h4>Heading 4</h4>
-<h5>Heading 5</h5>
-<h6>Heading 6</h6>
-</div>
-```markdown
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-```
+### Changing Backup Email Address Settings
 
----
+By following these steps, you can switch the setting for your backup email address between _Allow all verified emails_ and _Only allow primary email_.
+  **Note:** As you can see on the screen "Your backup GitHub email address will be used as an additional destination for security-relevant account notifications and can also be used for password resets".
 
-## Body text
+**1.** Click on the up/down arrows within the shown section.
+!["Backup Email Address Settings"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangeSettingForBackupEmailAddress.png?raw=true)
 
-Default body text is rendered like this:
+**2.** Choose your preferrence between _Allow all verified emails_ and _Only allow primary email_ from the dropdown list.
 
-<div class="code-example" markdown="1">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
-```markdown
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-```
-
----
-
-## Inline elements
-
-<div class="code-example" markdown="1">
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-</div>
-```markdown
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-```
-
----
-
-## Typographic Utilities
-
-There are a number of specific typographic CSS classes that allow you to override default styling for font size, font weight, line height, and capitalization.
-
-[View typography utilities]({{ site.baseurl }}{% link docs/utilities/utilities.md %}#typography){: .btn .btn-outline }
+**3.** Click **Save** button next to this dropdown list.
