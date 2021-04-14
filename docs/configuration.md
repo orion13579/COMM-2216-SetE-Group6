@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating and Deleting GitHub Account
-nav_order: 2
+nav_order: 3
 ---
 
 # Create a GitHub Account

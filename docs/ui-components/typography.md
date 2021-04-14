@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Typography
-parent: UI Components
+title: Emails section
+parent: Account Settings Configuration
 nav_order: 1
 ---
 

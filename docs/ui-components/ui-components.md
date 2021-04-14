@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Profile and Settings Configuration
-nav_order: 3
+title: Account Settings Configuration
+nav_order: 2
 has_children: true
 permalink: /docs/ui-components
 ---
 
-# Profile and Settings Configuration
+# Account Settings Configuration
 
 To start working with GitHub after creating a user account, it is vital to set some basic configurations in the _Settings_.
 
@@ -33,7 +33,7 @@ After signing up and logging in for the first time, there are two different ways
 
 Although at this point, there are two separate ways available to access to this page, the first one described here will be your default choice, as it allows you to access the full configuration of the _User Profile_ page when you are logged in from any other page.
 
-   **Note:** The second choice, which by clicking on the green _Edit profile_ button redirects you to the same _User Profile_ section of the _Settings_ page, is only available as an initial tip to first time users.
+   **Note:** The second choice, which by clicking on the green **Edit profile** button redirects you to the same _User Profile_ section of the _Settings_ page, is only available as an initial tip to first time users.
  
 
 **1.** Click on the most right side button of the navigation page to open the menu.
@@ -42,12 +42,12 @@ Although at this point, there are two separate ways available to access to this 
 
 **2.** Select **Settings** from the opened dropdown menu.
 
-  At this point, you will be redirected to the _User Profile_ section of the _Settings_ page of your account. In this insruction, 5 sections of this _Settings_ page will be covered separately to help you set basic configurations of your user account.
+  At this point, you will be redirected to the _User Profile_ section of the _Settings_ page of your account.
   {: .p-3rem }
 
-!["Five covered sections of settings"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/SettingsMainPage-edited.png?raw=true)
+!["Four covered sections of Settings"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/SettingsMainPage-edited.png?raw=true)
 
-  By clicking on each item of the left sidebar, any section of this _Settings_ page can be chosen. Here, we will walk through 5 of these sections to help you set up the basic configuration.
+  By clicking on each item of the left sidebar, any section of this _Settings_ page can be chosen. Here, we will walk through 4 of these sections to help you set up the basic configuration.
   {: .p-3rem }
 
   It is recommended to start from _Emails_ section before setting up the _Profile_ section. By configuring this section first, there will be no need to go back and forth between different sections.
@@ -108,7 +108,7 @@ In this _Public Profile_ section of _Settings_ page, you can add or change the p
 
 Your name may appear around GitHub where you contribute or are mentioned. It is also possible to remove it at any time if you prefer to contribute anonymously.
 
-To change your name, you simply need to do 2 steps.
+To change your name, you simply need to take 2 steps.
 
 **1.** Fill a public name that you prefer to appear around GitHub in the _Name_ field.
 
@@ -126,7 +126,7 @@ To add a new picture, or to remove your previous one, you need to do 2 steps.
 
 !["Edit Profile picture"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/EditProfilePicture.png?raw=true)
 
-**2.** Click on **Upload a photo** and choose your prefered image, or click _Remove photo_ from the opened dropdown list if you intend to remove the previously chosen image for your profile.
+**2.** Click on **Upload a photo** and choose your prefered image, or click **Remove photo** from the opened dropdown list if you intend to remove the previously chosen image for your profile.
 
 ### Adding Additional Information
 
