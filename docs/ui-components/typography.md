@@ -17,7 +17,7 @@ nav_order: 2
 ---
 
 During the sign up proccess to create your GitHub account, you have been asked to provide an email address to connect your GitHub account to your email account. That email address has been stored as your _Primary Email Address_ which will be used as a way to answer security related checks for your account, making backups, and also for sending notifications when you are follownig, watching, or working with others inside GitHub. However, you may intend to add another email address for different reasons, such as adding a private email address beside your work email, changing your connected email address to your GitHub account, or having two connected email addresses for security related reasons.
-{: .fs-8 }
+{: .px-6 }
 
 By following this section, you would be able to add other email addresses for different purposes, change your _Primary Email Address_ to another email address, and choose a setting for your _Backup Email Address_ if needed.
 
