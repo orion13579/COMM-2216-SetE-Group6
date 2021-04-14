@@ -22,7 +22,7 @@ In this _Public Profile_ section of _Settings_ page, you can add or change the p
 
 !["Press Update profile button to save changes"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/PressUpdateProfile.png?raw=true)
 
-### Changing Name
+## Changing Name
 
 Your name may appear around GitHub where you contribute or are mentioned. It is also possible to remove it at any time if you prefer to contribute anonymously.
 
@@ -34,7 +34,7 @@ To change your name, you simply need to take 2 steps.
 
 **2.** Click the green **Update profile** button in the middle of the page.
 
-### Changing Profile Picture
+## Changing Profile Picture
 
 Your picture may also appear around GitHub same as your name where you contribute or are mentioned. Likewise, it is also possible to remove it at any time if you prefer to contribute anonymously.
 
@@ -46,7 +46,7 @@ To add a new picture, or to remove your previous one, you need to do 2 steps.
 
 **2.** Click on **Upload a photo** and choose your prefered image, or click **Remove photo** from the opened dropdown list if you intend to remove the previously chosen image for your profile.
 
-### Adding Additional Information
+## Adding Additional Information
 
 In addition to editing your profile name and picture, you may add other optional information such as a quick _Bio_, a _URL_ link, your _Twitter username_, your _Company_ name and your _Locattion_ to your profile.
 

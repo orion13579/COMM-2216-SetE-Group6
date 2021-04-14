@@ -22,7 +22,7 @@ In the account section of the _Settings_ page, you can change your GitHub userna
 
 |   **Caution:** Any changes covered in this section can have unintended side effects or irreversible consequences.
 
-### Changing Username
+## Changing Username
 
 Changing a previously chosen _GitHub username_, which is different from changing your publicly shown _Profile Name_, may be required in special situations. Here we will cover the instructions required if, at any point, this change will be required.
 
@@ -38,7 +38,7 @@ Changing a previously chosen _GitHub username_, which is different from changing
 
 **3.** Follow the steps of the provided wizard, which is mostly the same as steps you took to create your previos GitHub account.
 
-### Exporting Account Data
+## Exporting Account Data
 
 By following these steps, you can export all repositories and profile metadata of your account.
 
@@ -56,7 +56,7 @@ After minutes, you will receive an email in your chosen Backup Email Address for
 
 !["Download Export button"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DownloadExport.png?raw=true)
 
-### Deleting GitHub Account
+## Deleting GitHub Account
 
 If at any point, you decide to delete your GitHub account and its repositories, you can do so by clicking on the red **Delete your account** on this account section of the _Settings_ page.
 

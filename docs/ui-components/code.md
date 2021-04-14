@@ -16,6 +16,6 @@ nav_order: 5
 
 ---
 
-### Changing Password
+## Changing Password
 
-### Enabling Two-factor Authentication
+## Enabling Two-factor Authentication
