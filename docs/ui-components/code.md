@@ -2,7 +2,7 @@
 layout: default
 title: Account Security section
 parent: Account Settings Configuration
-nav_order: 5
+nav_order: 4
 ---
 
 # Account Security section
@@ -28,4 +28,5 @@ To change your password, you need to follow 3 simple steps on the _Account secur
 **2.** Type your new password both in the _New password_ and _Confirm new password_ fields.
 
 **3.** Click on **Update password** botton.
+
 |   **Note:** Leaving the page without clicking on this button will not make any updates to your account's password.

@@ -9,11 +9,11 @@ nav_order: 1
 
 ---
 
-After signing up and logging in for the first time, there are two different ways to access and make changes to this _Settings_ page.
+After signing up and logging in for the first time, you would be able to access this _Settings_ page in two different ways.
 
 !["2 Ways to access to Settings from the Home Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/HomePageToProfile-edited.png?raw=true)
 
-Although at this point there are two separate ways available to access to this page, the first one described here will be your default choice, as it allows you to access the full configuration of the _User Profile_ page when you are logged in from any other page.
+The one described here will be your default choice, as it allows you to access the full configuration of the _User Profile_ page from any other page inside your account.
 
 |   **Note:** The second choice, which by clicking on the green **Edit profile** button redirects you to the same _User Profile_ section of the _Settings_ page, is only available as an initial tip to first time users.
 
@@ -28,8 +28,4 @@ At this point, you will be redirected to the _User Profile_ section of the _Sett
 
 !["Four covered sections of Settings"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/SettingsMainPage-edited.png?raw=true)
 
-By clicking on each item of the left sidebar, any section of this _Settings_ page can be chosen. Here, we will walk through 4 of these sections to help you set up the basic configuration.
-{: .pl-4 }
-
-It is recommended to start from _Emails_ section before setting up the _Profile_ section. By configuring this section first, there will be no need to go back and forth between different sections.
-{: .pl-4 }
+By clicking on each item of the left sidebar, different sections of this _Settings_ page can be chosen. In the next instructions of this _Account Settings Configuration_ topic, the essential parts from 4 of these sections will be covered to help you set up the basic configuration.

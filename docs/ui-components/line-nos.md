@@ -2,7 +2,7 @@
 layout: default
 title: Account section
 parent: Account Settings Configuration
-nav_order: 4
+nav_order: 3
 ---
 
 # Account section

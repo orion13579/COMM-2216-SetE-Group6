@@ -2,7 +2,7 @@
 layout: default
 title: Emails section
 parent: Account Settings Configuration
-nav_order: 2
+nav_order: 5
 ---
 
 # Emails section
