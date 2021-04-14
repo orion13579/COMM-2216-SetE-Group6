@@ -20,13 +20,13 @@ This section is not a part of basic configuration of a newly created user accoun
 
 In the account section of the _Settings_ page, you can change your GitHub username, _Export account data_ whenever you intend to migrate data from this account, and _Delete account_ if you intend to remove your account and its data from GitHub.
 
-**Caution:** Any changes covered in this section can have unintended side effects or irreversible consequences.
+|   **Caution:** Any changes covered in this section can have unintended side effects or irreversible consequences.
 
 ### Changing Username
 
 Changing a previously chosen _GitHub username_, which is different from changing your publicly shown _Profile Name_, may be required in special situations. Here we will cover the instructions required if, at any point, this change will be required.
 
-**Caution:** As changing _GitHub username_ may result in unintended side effects such as loosing redirects to your previously created Pages sites or Repositories, prior to any change of the username, read all the provided links by GitHub carefully.
+|   **Caution:** As changing _GitHub username_ may result in unintended side effects such as loosing redirects to your previously created Pages sites or Repositories, prior to any change of the username, read all the provided links by GitHub carefully.
 
 **1.** Click on **Change username** after reading about **unintended side effects** by the provided link and probable consequences of changing a user account.
 
@@ -60,7 +60,7 @@ After minutes, you will receive an email in your chosen Backup Email Address for
 
 If at any point, you decide to delete your GitHub account and its repositories, you can do so by clicking on the red **Delete your account** on this account section of the _Settings_ page.
 
-**Warning:** Once you delete your account by doing these steps, there is no going back. All of your repositories, along with all of your forks, wikis, issues, pull requests, and GitHub Pages sites will be deleted, and your username will be available to anyone on GitHub.
+|   **Warning:** Once you delete your account by doing these steps, there is no going back. All of your repositories, along with all of your forks, wikis, issues, pull requests, and GitHub Pages sites will be deleted, and your username will be available to anyone on GitHub.
 
 **1.** Click on the red **Delete your account** button.
 

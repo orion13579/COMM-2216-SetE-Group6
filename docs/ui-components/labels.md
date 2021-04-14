@@ -18,7 +18,7 @@ nav_order: 3
 
 In this _Public Profile_ section of _Settings_ page, you can add or change the public information about yourself that you want to appear around GitHub. Here, we will cover 3 basic configurations that are fundamental prior to your contributions appearance around GitHub: Changing your public name, changing your profile picture, and adding additional information about yourself.
 
-**Caution:** Any changes covered in this section will not be saved until you press the green _Update profile_ button in the middle of this section.
+|   **Caution:** Any changes covered in this section will not be saved until you press the green _Update profile_ button in the middle of this section.
 
 !["Press Update profile button to save changes"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/PressUpdateProfile.png?raw=true)
 

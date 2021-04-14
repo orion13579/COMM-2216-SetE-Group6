@@ -36,7 +36,7 @@ To add a secondary email address to your GitHub account, or prior to change your
 
 ### Changing Primary Email Address
 
-  At any point, if you have added a secondary email address to your GitHub accound, you can change your _Primary Email Address_ fron one to another by following these steps.
+At any point, if you have added a secondary email address to your GitHub accound, you can change your _Primary Email Address_ fron one to another by following these steps.
 
 **1.** Click on the up/down arrows within the shown section.
 !["Changing Primary Email Address"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangePrimaryEmailAddress.png?raw=true)
