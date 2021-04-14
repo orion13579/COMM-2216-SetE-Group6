@@ -5,7 +5,7 @@ parent: Account Settings Configuration
 nav_order: 4
 ---
 
-## Account section
+# Account section
 {: .no_toc }
 
 ## Table of contents

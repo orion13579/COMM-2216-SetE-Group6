@@ -5,7 +5,7 @@ parent: Account Settings Configuration
 nav_order: 1
 ---
 
-## Accessing the Settings page
+# Accessing the Settings page
 
 ---
 
@@ -13,7 +13,7 @@ After signing up and logging in for the first time, there are two different ways
 
 !["2 Ways to access to Settings from the Home Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/HomePageToProfile-edited.png?raw=true)
 
-Although at this point, there are two separate ways available to access to this page, the first one described here will be your default choice, as it allows you to access the full configuration of the _User Profile_ page when you are logged in from any other page.
+Although at this point there are two separate ways available to access to this page, the first one described here will be your default choice, as it allows you to access the full configuration of the _User Profile_ page when you are logged in from any other page.
 
    **Note:** The second choice, which by clicking on the green **Edit profile** button redirects you to the same _User Profile_ section of the _Settings_ page, is only available as an initial tip to first time users.
 

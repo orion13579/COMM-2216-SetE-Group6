@@ -5,7 +5,7 @@ parent: Account Settings Configuration
 nav_order: 5
 ---
 
-## Account Security section
+# Account Security section
 {: .no_toc }
 
 ## Table of contents

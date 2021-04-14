@@ -5,7 +5,7 @@ parent: Account Settings Configuration
 nav_order: 2
 ---
 
-## Emails section
+# Emails section
 {: .no_toc }
 
 ## Table of contents
