@@ -20,30 +20,8 @@ During the sign up proccess to create your GitHub account, you have been asked t
 
 By following this section, you would be able to add other email addresses for different purposes, change your _Primary Email Address_ to another email address, and choose a setting for your _Backup Email Address_ if needed.
 
-<div class="code-example" markdown="1">
-Font size 1
-{: .fs-1 }
-Font size 2
-{: .fs-2 }
-Font size 3
-{: .fs-3 }
-Font size 4
-{: .fs-4 }
-Font size 5
-{: .fs-5 }
-Font size 6
-{: .fs-6 }
-Font size 7
-{: .fs-7 }
-Font size 8
-{: .fs-8 }
-Font size 9
-{: .fs-9 }
-Font size 10
-{: .fs-10 }
-</div>
-
 |   **Caution:** None of these steps are necessary if you do not intend to add other email accounts to your GitHub account.
+{: .fs-6 }
 
 ## Adding another Email Address
 
