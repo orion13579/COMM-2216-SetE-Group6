@@ -52,12 +52,12 @@ After minutes, you will receive an email in your chosen Backup Email Address for
 {: .pl-4 }
 
 !["Export message"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ExportInProgress.png?raw=true)
-{: .mx-auto }
+{: .px-auto }
 
 **3.** Click on the blue **Download export** bottun and save it somewhere safe in your hard drive.
 
 !["Download Export button"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DownloadExport.png?raw=true)
-{: .mx-auto }
+{: .px-auto }
 
 ## Deleting GitHub Account
 
@@ -73,6 +73,6 @@ At this point, you will receive a confirmation message in a pop-up window.
 {: .pl-4 }
 
 !["Delete account confirmation window"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DeleteAccountConfirmation.png?raw=true)
-{: .mx-auto }
+{: .px-auto }
 
 **2.**  Type your username or email address in the first field, and type the shown message in the second. Once done, you can click on the **cancel plan and delete this account** button to completely remove your account and its data from GitHub.
