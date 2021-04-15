@@ -35,3 +35,16 @@ You have successfully created a repository and you can access it on *your reposi
 
 ## Deleting a Repository
 
+To delete a repository, you must first be on *your repositories* page and left click on the repository that you want to delete. Then press the **Settings* tab that is below the name of the respository.
+
+!["Settings tab on a repository"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Repository%20settings.png?raw=true)
+
+
+This will take you to the settings page. You should see the *Settings* header in the middle of the page. If you do not, then please left click on the **Options** section on the left side of the page. 
+
+
+!["Settings options sidebar"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Settings%20Options.png?raw=true)
+
+Then scroll down to the bottom of this page and you should see a *Danger Zone* section. There will be a button, **“**Delete this repositor** in the bottom right-hand corner of this section.
+
+![""]
