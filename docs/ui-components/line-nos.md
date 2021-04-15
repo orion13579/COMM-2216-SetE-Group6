@@ -78,7 +78,11 @@ If at any point, you decide to delete your GitHub account and its repositories, 
 At this point, you will receive a confirmation message in a pop-up window.
 {: .pl-4 }
 
+**2.**  Type your username or email address in the first field of this window, and type the shown confirmation message in the second. Once done, you can click on the **cancel plan and delete this account** button to completely remove your account and its data from GitHub.
+
 !["Delete account confirmation window"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DeleteAccountConfirmation.png?raw=true)
 {: .px-auto }
 
-**2.**  Type your username or email address in the first field of this window, and type the shown confirmation message in the second. Once done, you can click on the **cancel plan and delete this account** button to completely remove your account and its data from GitHub.
+In this section, we covered essential steps that may be required for changind, migrating, and deleting a user account.
+
+Next section will cover steps required to change your account's _password_.
