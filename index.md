@@ -68,11 +68,9 @@ Page titles or technical terms      Italics           _Settings Page_, _reposito
 
 |   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true) **Note:** This is a note icon which indicates please pay attention to the following.
 
-!["Caution Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Caution.png?raw=true)
-|   **Caution:** This a caution icon which indicates please be careful with the following.
+|   !["Caution Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Caution.png?raw=true) {:style="float:left} **Caution:** This a caution icon which indicates please be careful with the following.
 
-!["Warning Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Warning.png?raw=true)
-|   **Warning:** This a warning icon which indicates an irreversible action with high consequences, proceed at your own risk.
+|   !["Warning Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Warning.png?raw=true)**Warning:** This a warning icon which indicates an irreversible action with high consequences, proceed at your own risk.
 
 ## Conclusion
 
