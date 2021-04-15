@@ -30,3 +30,7 @@ To change your password, you need to follow 3 simple steps on the _Account secur
 **3.** Click on **Update password** botton.
 
 |   **Note:** Leaving the page without clicking on this button will not make any updates to your account's password.
+
+---
+
+Here, we covered steps that are required to change your password. In the next section, instructions related to the connected email accounts to your GitHub account will be covered.

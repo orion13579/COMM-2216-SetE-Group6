@@ -60,4 +60,6 @@ In addition to editing your profile name and picture, you may add other optional
 
 **2.** Click the green **Update profile** button in the middle of the page.
 
+---
+
 Here, we covered the essential parts of the profile section. In the next section, you can find instructions related to your user account.
