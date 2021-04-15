@@ -68,13 +68,13 @@ The **Add File** button has been highlighted in the image below.
 
 When the **Add File** button is clicked, a dropdown should appear below the Add File button as shown below.
 
-!["Add File Button Dropdown"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image7AddFileDropdownZoomIn.PNG?raw=true)
+!["Add File Button Dropdown"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image7AddFileDropdownZoomIn.png?raw=true)
 
 **2.** Click on the **Create new file** dropdown button
 
 This button has been highlighted in the image below.
 
-!["Add File Button Dropdown Create New File Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image8AddFileDropdownZoomInCreateNewFileHighlight.PNG?raw=true)
+!["Add File Button Dropdown Create New File Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image8AddFileDropdownZoomInCreateNewFileHighlight.png?raw=true)
 
 If this step was successful, you should see a new empty file page, as shown below.
 
