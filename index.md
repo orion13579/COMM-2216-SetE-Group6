@@ -65,7 +65,7 @@ Note: This is a note icon which indicates please pay attention to the following.
 Caution: This a caution icon which indicates please be careful with the following.
 Warning: This a warning icon which indicates an irreversible action with high consequences, proceed at your own risk.
 
-### Conclusion
+## Conclusion
 
 Having a reliable and potentially free tool that provides a variety of features to aid in your software development would be useful for both casual and professional software developers. 
 Now that you have an understanding of the importance of GitHub, let’s get started by Customizing your Profile and Settings.

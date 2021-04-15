@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Customize Profile
-nav_order: 6
+title: Creating and Deleting Repositories
+nav_order: 4
 ---
 
 ---
