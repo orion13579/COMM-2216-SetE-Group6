@@ -18,9 +18,9 @@ The following set of instructions will teach you how to create and delete reposi
 
 <br/><br/>
 
-First, you must be logged into your GitHub account. 
+**1.** First, you must be logged into your GitHub account. 
 
-Then left-click on your profile picture in the top-right corner of the site and left click **Your repositories**. 
+**2.** Then left-click on your profile picture in the top-right corner of the site and left click **Your repositories**. 
 
 <br/><br/>
 
@@ -28,7 +28,7 @@ Then left-click on your profile picture in the top-right corner of the site and 
 
 <br/><br/>
 
-This will take you to *Your Repositories* page and just below your profile picture in the top-right corner is a green **New** button. Please left click this button. 
+**3.** This will take you to *Your Repositories* page and just below your profile picture in the top-right corner is a green **New** button. Please left click this button. 
 
 <br/><br/>
 
@@ -36,7 +36,11 @@ This will take you to *Your Repositories* page and just below your profile pictu
 
 <br/><br/>
 
-Then in this *Create a New Repository* page, please enter a name for your repository in the *Repository name* section and you may put a description in if you wish. Right below the description you can choose to keep the repository **Public** (anyone can see) or **Private** (you choose who sees). Finally, left click **Create repository** at the bottom of the page. 
+**4.**Then in this *Create a New Repository* page, please enter a name for your repository in the *Repository name* section and you may put a description in if you wish. 
+
+**5.** Right below the description you can choose to keep the repository **Public** (anyone can see) or **Private** (you choose who sees). 
+
+**6.** Finally, left click **Create repository** at the bottom of the page. 
 
 <br/><br/>
 
@@ -50,7 +54,10 @@ You have successfully created a repository and you can access it on *Your Reposi
 ## Deleting a Repository 
 
 <br/><br/>
-To delete a repository, you must first be on *Your Repositories* page and left click on the repository that you want to delete. Then press the *Settings* tab that is below the name of the respository. 
+
+**1.** To delete a repository, you must first be on *Your Repositories* page and left click on the repository that you want to delete. 
+
+**2.** Then press the *Settings* tab that is below the name of the respository. 
 
 <br/><br/>
 
@@ -58,7 +65,7 @@ To delete a repository, you must first be on *Your Repositories* page and left c
 
 <br/><br/>
 
-This will take you to the settings page. You should see the *Settings* header in the middle of the page. If you do not, then please left click on the **Options** section on the left side of the page. 
+**3.** This will take you to the settings page. You should see the *Settings* header in the middle of the page. If you do not, then please left click on the **Options** section on the left side of the page. 
 
 <br/><br/>
 
@@ -74,7 +81,9 @@ Then scroll down to the bottom of this page and you should see a *Danger Zone* s
 
 <br/><br/>
 
-Left click this button and a pop-up will appear for you to confirm to delete this repository. Type what you are showed to type, which is your account and repository name, and then press on the **I understand the consequences, delete this repository** button. 
+**4.**  Left click the  **Delete this repository** button and a pop-up will appear for you to confirm to delete this repository. 
+
+**5.** Type what you are showed to type, which is your account and repository name, and then press on the **I understand the consequences, delete this repository** button. 
 
 <br/><br/>
 
@@ -82,4 +91,10 @@ Left click this button and a pop-up will appear for you to confirm to delete thi
 
 <br/><br/>
 
-It may then ask you to confirm access by typing in your GitHub account password. Enter your password and left click confirm. You have successfully deleted a repository on GitHub. If you go to *Your Repositories* page, the deleted repository will not appear. 
+**6.** It may then ask you to confirm access by typing in your GitHub account password. Enter your password and left click confirm. You have successfully deleted a repository on GitHub. If you go to *Your Repositories* page, the deleted repository will not appear.
+
+##Conclusion
+
+<br/><br/>
+
+You have now learned how to create and delete a repository on GitHub. Next step is to learn how to create a file in your repository.
