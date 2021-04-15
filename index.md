@@ -61,6 +61,11 @@ Convention                          Typeface              Examples
 Button or hyperlink to be clicked   **[Bold]**          **Add File**, **New**, etc
 Page titles or technical terms      Italics           _Settings Page_, _repository_, etc
 
+| Convention                        | Typeface    | Examples                            |
+|:----------------------------------|:------------|:------------------------------------|
+| Button or hyperlink to be clicked | **[Bold]**  | **Add File**, **New**, etc          |
+| Page titles or technical terms    | _Italics_   | _Settings Page_, _repository_, etc  |
+
 |   **Note:** This is a note icon which indicates please pay attention to the following.
 
 |   **Caution:** This a caution icon which indicates please be careful with the following.
