@@ -30,6 +30,8 @@ To add a secondary email address to your GitHub account, or prior to change the 
 
 !["Adding anotherEmail Address"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/AddEmailAddress.png?raw=true)
 
+<br/><br/>
+
 **2.** Click **Add** button next to that field.
 
 **3.** Click on **Verify** link of an email which will be send to your newly added email address.
@@ -43,6 +45,8 @@ Once you add a secondary email address to your GitHub accound, you can change yo
 **1.** Click on the up/down arrows within the shown section.
 
 !["Changing Primary Email Address"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangePrimaryEmailAddress.png?raw=true)
+
+<br/><br/>
 
 **2.** Choose your preferred _Primary Email Address_ from the dropdown list.
 
@@ -59,6 +63,8 @@ By following these steps, you can switch the setting for your backup email addre
 **1.** Click on the up/down arrows within the shown section.
 
 !["Backup Email Address Settings"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangeSettingForBackupEmailAddress.png?raw=true)
+
+<br/><br/>
 
 **2.** Choose your preferrence between _Allow all verified emails_ and _Only allow primary email_ from the dropdown list.
 
