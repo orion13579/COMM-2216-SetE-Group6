@@ -22,7 +22,6 @@ To start, let’s create a repository. You can follow the previous, “Create / 
 
 ---
 
-
 ## Create a File
 
 Depending on how the repository was created, with or without a README file, your repository page will look slightly different. Please see the two possible cases below, an empty repository / a repository with a file already in it,  to see what case matches your situation.
@@ -158,14 +157,14 @@ If successful, you should arrive at the file specific screen that looks similar 
 
 !["File Specifc Page Features"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image18FileSpecificPage.PNG?raw=true)
 
-**2.** Click on the pencil icon.
-
 Some key feature of this page include:
 1. This is the path to the file you selected. In this example, the path shows that you are looking at the “testFile.py” file in the “test” repository. This path may be different for you depending on what you named your repository and files.
 |   **Note:** an easy way to return to your main repository page is that you can click on any parent directories, such as the “test” repository in the path mentioned above.
 2. This area provides general file information such as how many lines are in your file and the size of your file.
 3. These are the main tools for manipulating your files. We will only be looking at the pencil and trashcan tool in this instruction manual.
 4. This section contains the contents of your file. In this example we only have a single line in our file, but if you had many lines you could see them all here.
+
+**2.** Click on the pencil icon.
 
 !["File Specifc Page, Edit File Icon Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image19FileSpecificPageEditHighlight.PNG?raw=true)
 
