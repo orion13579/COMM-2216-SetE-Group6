@@ -85,7 +85,65 @@ Now you have successfully created a new file, but to edit and save it to your re
 
 ## Writing and Commiting a File
 
-**1.** Click on the **Change username** button after reading about **unintended side effects** by the provided link and probable consequences of changing a user account.
+Now that you have created or edited a file,you should now be at the file editing screen as shown below. 
+
+!["File Editing Page Features"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image9FileEditingPageFeatures.PNG?raw=true)
+
+This is where you can modify the contents, name, location, or even type of your file.
+
+The top of this page has two important features:
+[]The top of this page has two important features: 
+
+1.  This text box is where you can input or edit the file name and type of your file. 
+2.  This is where you can modify the contents of your file by adding, editing, or removing lines of code.
+
+**1.** Give this file a name.
+
+For example, we gave our file the name “testFile” as seen below:
+
+!["Add File Name"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image10AddFileName.PNG?raw=true)
+
+**2.** Give this file an extension.
+
+!["Add File Extension"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image11AddFileExtension.PNG?raw=true)
+
+|   **Note:** You can give your file any common extensions used in common programming languages, but the doc notation is mandatory for the file extension.
+
+**3.** Add some file contents.
+
+Any content is fine, you could also make no changes. In our case, we added the following contents.
+
+!["Sample File Contents"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image12SampleFileContentsAdded.PNG?raw=true)
+
+**4.** Scroll to the bottom of the page.
+
+At the very bottom of the page you should see a Commit Changes section, as shown below.
+
+!["File Commit Box"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image13CommitFileBox.PNG?raw=true)
+
+**5.** Write a descriptive commit message.
+
+You can add a descriptive message to your commits to help track the changes you have made to your file. This is not mandatory, you can leave the message as it’s default if you would prefer.
+For example, we left our commit message as the default message “Update testFile.py”, but your default message may be diff]reret.
+
+!["File Commit Box Commit Message Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image14CommitFileBoxMessgaeHighlight.PNG?raw=true)
+
+**6.** Click **Commit changes** button.
+
+!["File Commit Box Commit Changes Button Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image15CommitFileBoxCommitChangesButtonHighlight.PNG?raw=true)
+
+This will save your file changes to your repository.
+
+## Edit a File
+
+
+
+
+
+
+
+**1.** Click on the **Change username** button after reading about **unintended side effects** by the provided link and probable 
+consequences of changing a user account.
 
 !["Changing GitHub Username"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangingUsername.png?raw=true)
 
