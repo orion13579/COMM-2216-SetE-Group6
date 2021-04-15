@@ -49,6 +49,7 @@ Once you add a secondary email address to your GitHub accound, you can change yo
 **3.** Click **Save** button next to this dropdown list.
 
 <br/><br/>
+
 ## Changing Backup Email Address Settings
 
 By following these steps, you can switch the setting for your backup email address between _Allow all verified emails_ and _Only allow primary email_.
