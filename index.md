@@ -66,13 +66,18 @@ Page titles or technical terms      Italics           _Settings Page_, _reposito
 | Button or hyperlink to be clicked | **[Bold]**  | **Add File**, **New**, etc          |
 | Page titles or technical terms    | _Italics_   | _Settings Page_, _repository_, etc  |
 
+!["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.PNG?raw=true)
 |   **Note:** This is a note icon which indicates please pay attention to the following.
 
+!["Caution Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Caution.PNG?raw=true)
 |   **Caution:** This a caution icon which indicates please be careful with the following.
 
+!["Warning Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Warning.PNG?raw=true)
 |   **Warning:** This a warning icon which indicates an irreversible action with high consequences, proceed at your own risk.
 
 ## Conclusion
 
 Having a reliable and potentially free tool that provides a variety of features to aid in your software development would be useful for both casual and professional software developers. 
 Now that you have an understanding of the importance of GitHub, let’s get started by Customizing your Profile and Settings.
+
+!["GitHub Logo"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/GitHub_Logo.PNG?raw=true)
