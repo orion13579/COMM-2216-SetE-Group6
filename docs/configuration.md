@@ -1,16 +1,18 @@
 ---
 layout: default
-title: Creating and Deleting GitHub Account
+title: Create, Modify, And Delete Files
 nav_order: 3
 ---
 
-# Create a GitHub Account
-{: .no_toc }
-![](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Image%201%20-%20GitHub%20webpage.PNG?raw=true "GitHub Webpage")
-<!-- 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
-{: .fs-6 .fw-300 }
+# Creating, Modifying, and Deleting Files in GitHub
+{: .no_toc }
+
+Though GitHub is not usually used as an interface for writing code, it does have the functionality to create, edit, delete files and create folders. 
+
+This section’s goal is to explain and show you how to use these file manipulation techniques to add to your repositories. If you really wanted to, by the end of this section, you could start programming your applications in GitHub instead of an IDE.
+
+To start, let’s create a repository. You can follow the previous, “Create / Delete a Repository”, task instructions if you need a refresher.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -21,181 +23,67 @@ Just the Docs has some specific configuration parameters that can be defined in 
 ---
 
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+## Create a File
+
+Depending on how the repository was created, with or without a README file, your repository page will look slightly different. Please see the two possible cases below, an empty repository / a repository with a file already in it,  to see what case matches your situation.
+
+### Create a File From An Empty Repository
+
+This case shows you how to create a file from a completely empty repository containing no files. For reference, your page should look similar to the image below.
 
 
-## Site logo 
-
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
-
-## Search
-
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
-
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
-```
-
-## Aux links
-
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
-```
-
-## Heading anchor links
-
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false
-heading_anchors: true
-```
-
-## Footer content
-
-```yaml
-# Footer content
-# appears at the bottom of every page's main content
-# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
-markup / liquid-based content.
-footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
-
-# Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/pmarsceill/just-the-docs" # the github URL for your repo
-gh_edit_branch: "master" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-```
-
-_note: `footer_content` is deprecated, but still supported. For a better experience we have moved this into an include called `_includes/footer_custom.html` which will allow for robust markup / liquid-based content._
-
-- the "page last modified" data will only display if a page has a key called `last_modified_date`, formatted in some readable date format
-- `last_edit_time_format` uses Ruby's DateTime formatter; see examples and more information [at this link.](https://apidock.com/ruby/DateTime/strftime)
-- `gh_edit_repository` is the URL of the project's GitHub repository
-- `gh_edit_branch` is the branch that the docs site is served from; defaults to `master`
-- `gh_edit_source` is the source directory that your project files are stored in (should be the same as [site.source](https://jekyllrb.com/docs/configuration/options/))
-- `gh_edit_view_mode` is `"tree"` by default, which brings the user to the github page; switch to `"edit"` to bring the user directly into editing mode
-
-## Color scheme
-
-```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
-
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
-
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Preview dark color scheme';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Return to the light side';
-  }
-});
-</script>
-
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
-
-## Google Analytics
-
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
-```
-
-## Document collections
-
-By default, the navigation and search include normal [pages](https://jekyllrb.com/docs/pages/).
-Instead, you can also use [Jekyll collections](https://jekyllrb.com/docs/collections/) which group documents semantically together.
-
-For example, put all your documentation files in the `_docs` folder and create the `docs` collection:
-```yaml
-# Define Jekyll collections
-collections:
-  # Define a collection named "docs", its documents reside in the "_docs" directory
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "docs" collection
-    docs:
-      # Give the collection a name
-      name: Documentation
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
-``` 
-
-You can reference multiple collections.
-This creates categories in the navigation with the configured names.
-```yaml
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
-```
--->
 
 
+
+|   **Caution:** As changing _GitHub username_ may result in unintended side effects such as loosing redirects to your previously created Pages sites or repositories, prior to changing your username, read all the provided links by GitHub carefully.
+
+**1.** Click on the **Change username** button after reading about **unintended side effects** by the provided link and probable consequences of changing a user account.
+
+!["Changing GitHub Username"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangingUsername.png?raw=true)
+
+**2.** Click on the **I understand, let's change my username** button in the opened window if you agree and intend to proceed.
+
+!["Warning for User account"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/UseraccountChangeWarning.png?raw=true)
+
+**3.** Follow the steps of the loaded wizard, which is mostly the same as steps you took to create your previos GitHub account.
+
+## Exporting Account Data
+
+By following these steps, you can export all repositories and profile metadata of your account.
+
+|   **Note:** A link to download your export request will be send to your _Backup email address_. You can change the related settings by taking the steps provided in the _Emails_ section of this instruction manual.
+
+**1.** Click on the **Start export** button.
+
+!["Export account data"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ExportingAccountData.png?raw=true)
+
+At this point, a message will be shown in this same box reporting that your exported is being prepared.
+
+After some minutes depending on the some factors including the size of your repositories, you will receive an email (with a link similar to the picure below) in your chosen Backup Email Address for your GitHub account.
+{: .pl-4 }
+
+!["Export message"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ExportInProgress.png?raw=true)
+{: .px-auto }
+
+**3.** Click on the blue **Download export** bottun and save it somewhere safe in your hard drive or in other trusted resources.
+
+!["Download Export button"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DownloadExport.png?raw=true)
+{: .px-auto }
+
+## Deleting GitHub Account
+
+If at any point, you decide to delete your GitHub account and its repositories, you can do so by clicking on the red **Delete your account** on this _Account_ section of the _Settings_ page.
+
+|   **Warning:** Once you delete your account by doing these steps, there is no going back. All of your repositories, along with all of your forks, pull requests, and GitHub pages sites will be deleted. Besides, your username will be available to anyone on GitHub.
+
+**1.** Click on the red **Delete your account** button.
+
+!["Deleting user account"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DeletingAccount.png?raw=true)
+
+At this point, you will receive a confirmation message in a pop-up window.
+{: .pl-4 }
+
+!["Delete account confirmation window"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DeleteAccountConfirmation.png?raw=true)
+{: .px-auto }
+
+**2.**  Type your username or email address in the first field of this window, and type the shown confirmation message in the second. Once done, you can click on the **cancel plan and delete this account** button to completely remove your account and its data from GitHub.
