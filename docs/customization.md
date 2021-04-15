@@ -22,7 +22,16 @@ Then left-click on your profile picture in the top-right corner of the site and 
 
 !["Accessing Your Repositories Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Your%20Repositories.png?raw=true)
 
-This will take you to *Your repositories* page and just below your profile picture in the top-right corner is a green **New**button. Please left click this button.
+This will take you to *your repositories* page and just below your profile picture in the top-right corner is a green **New**button. Please left click this button.
 
 !["New button on Your repositories page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/New%20Repositories.png?raw=true)
+
+Then in the *create a new repository* page, please enter a name for your repository in the *Repository name* section and you may put a description in if you wish. Right below the description you can choose to keep the repository **Public** (anyone can see) or **Private** (you choose who sees). Finally, left click **Create repository** at the bottom of the page.
+
+!["Create a new repository page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Create%20Repository.png?raw=true)
+
+You have successfully created a repository and you can access it on *your repositories* page.
+
+
+## Deleting a Repository
 
