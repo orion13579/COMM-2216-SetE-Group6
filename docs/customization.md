@@ -91,10 +91,8 @@ Then scroll down to the bottom of this page and you should see a *Danger Zone* s
 
 <br/><br/>
 
-**6.** It may then ask you to confirm access by typing in your GitHub account password. Enter your password and left click confirm. You have successfully deleted a repository on GitHub. If you go to *Your Repositories* page, the deleted repository will not appear.
+**6.** It may then ask you to confirm access by typing in your GitHub account password. Enter your password and left click confirm. 
 
-##Conclusion
-
-<br/><br/>
+You have successfully deleted a repository on GitHub. If you go to *Your Repositories* page, the deleted repository will not appear. 
 
 You have now learned how to create and delete a repository on GitHub. Next step is to learn how to create a file in your repository.
