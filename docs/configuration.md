@@ -31,6 +31,11 @@ Depending on how the repository was created, with or without a README file, your
 
 This case shows you how to create a file from a completely empty repository containing no files. For reference, your page should look similar to the image below.
 
+!["Empty GitHub Repository Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangingUsername.png?raw=true)
+
+You should see some instructions that look complicated, but you don’t need to worry about any of these right now. We’re only going to be working in GitHub, so if your repository looks similar to this, please proceed.
+
+**1.** Click on the **creating a new file** hyperlink, in the _Quick setup_ Section.
 
 
 
