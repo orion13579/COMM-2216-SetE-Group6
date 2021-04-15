@@ -31,16 +31,59 @@ Depending on how the repository was created, with or without a README file, your
 
 This case shows you how to create a file from a completely empty repository containing no files. For reference, your page should look similar to the image below.
 
-!["Empty GitHub Repository Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangingUsername.png?raw=true)
+!["Empty GitHub Repository Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image1EmptyRepositoryWebpage.PNG?raw=true)
 
 You should see some instructions that look complicated, but you don’t need to worry about any of these right now. We’re only going to be working in GitHub, so if your repository looks similar to this, please proceed.
 
 **1.** Click on the **creating a new file** hyperlink, in the _Quick setup_ Section.
 
+For clarification, the hyperlink location is marked by the red box in the image below.
 
+!["Empty GitHub Repository Page Create a New File Hyperlink Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image2EmptyRepositoryWebpageCreateAFileHyperLinkHighlight.PNG?raw=true)
 
+If this step was successful, you should see a new empty file page, as shown below.
 
-|   **Caution:** As changing _GitHub username_ may result in unintended side effects such as loosing redirects to your previously created Pages sites or repositories, prior to changing your username, read all the provided links by GitHub carefully.
+!["New Empty File Editing Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image3NewEmptyFileEditingPage.PNG?raw=true)
+
+Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the “Writing and Commiting a File” subsection.
+
+|   **Caution:** If you do not complete the “Writing and Commiting a File” task the file will not be saved.
+
+### Create a File From a Repository Already Containing a File
+
+This case shows you how to create a file from a repository already containing a file. For reference, your page should look similar to the image below.
+
+!["GitHub Repository Page Already Containing Files"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image4RepositoryAlreadyContainingFiles.PNG?raw=true)
+
+An easy way to check if this page matches your page is to look for the command bars highlighted by the red box in the image below. 
+
+!["GitHub Repository Page Already Containing Files Identifier Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image5RepositoryAlreadyContainingFilesIdentifierHighlight.PNG?raw=true)
+
+If you see the command line highlighted by the red box above, then this instructions is for you. Please note that other features of this page may differ depending on how many and what type of files you have in your repository already.
+
+**1.** Click on the **Add File** button, in the previously mentioned command line, highlighted above
+
+The **Add File** button has been highlighted in the image below.
+
+!["GitHub Repository Page Already Containing Files Add File Button Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image6RepositoryAlreadyContainingFilesAdFileButtonHighlight.PNG?raw=true)
+
+When the **Add File** button is clicked, a dropdown should appear below the Add File button as shown below.
+
+!["Add File Button Dropdown"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image7AddFileDropdownZoomIn.PNG?raw=true)
+
+**2.** Click on the **Create new file** dropdown button
+
+This button has been highlighted in the image below.
+
+!["Add File Button Dropdown Create New File Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image8AddFileDropdownZoomInCreateNewFileHighlight.PNG?raw=true)
+
+If this step was successful, you should see a new empty file page, as shown below.
+
+!["New Empty File Editing Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image3NewEmptyFileEditingPage.PNG?raw=true)
+
+Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the “Writing and Commiting a File” subsection.
+
+## Writing and Commiting a File
 
 **1.** Click on the **Change username** button after reading about **unintended side effects** by the provided link and probable consequences of changing a user account.
 
