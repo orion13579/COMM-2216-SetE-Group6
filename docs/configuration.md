@@ -28,8 +28,6 @@ To start, let’s create a repository. You can follow the previous, “Create / 
 
 ## Create a File
 
-<br/><br/>
-
 Depending on how the repository was created, with or without a README file, your repository page will look slightly different. Please see the two possible cases below, an empty repository / a repository with a file already in it,  to see what case matches your situation.
 
 <br/><br/>
@@ -38,19 +36,26 @@ Depending on how the repository was created, with or without a README file, your
 
 This case shows you how to create a file from a completely empty repository containing no files. For reference, your page should look similar to the image below.
 
+<br/>
 !["Empty GitHub Repository Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image1EmptyRepositoryWebpage.PNG?raw=true)
+<br/>
 
 You should see some instructions that look complicated, but you don’t need to worry about any of these right now. We’re only going to be working in GitHub, so if your repository looks similar to this, please proceed.
+<br/>
 
 **1.** Click on the **creating a new file** hyperlink, in the _Quick setup_ Section.
 
 For clarification, the hyperlink location is marked by the red box in the image below.
 
+<br/>
 !["Empty GitHub Repository Page Create a New File Hyperlink Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image2EmptyRepositoryWebpageCreateAFileHyperLinkHighlight.PNG?raw=true)
+<br/>
 
 If this step was successful, you should see a new empty file page, as shown below.
 
+<br/>
 !["New Empty File Editing Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image3NewEmptyFileEditingPage.PNG?raw=true)
+<br/>
 
 Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the “Writing and Commiting a File” subsection.
 
