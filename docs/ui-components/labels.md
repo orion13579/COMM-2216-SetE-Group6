@@ -34,6 +34,8 @@ To change your name, you simply need to take 2 steps.
 
 **2.** Click the green **Update profile** button in the middle of the page.
 
+---
+
 ## Changing Profile Picture
 
 Your picture may also appear around GitHub same as your name where you contribute or are mentioned. Likewise, it is also possible to remove it at any time if you prefer to contribute anonymously.
@@ -45,6 +47,8 @@ To add a new picture, or to remove your previous one, you need to do 2 steps.
 !["Edit Profile picture"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/EditProfilePicture.png?raw=true)
 
 **2.** Click on **Upload a photo** and choose your prefered image. You can also select **Remove photo** from the same opened dropdown list if you intend to remove the previously chosen image for your profile.
+
+---
 
 ## Adding Additional Information
 

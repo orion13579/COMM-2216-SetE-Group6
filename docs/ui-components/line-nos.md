@@ -38,6 +38,8 @@ Changing a previously chosen **GitHub username**, which is different from changi
 
 **3.** Follow the steps of the loaded wizard, which is mostly the same as steps you took to create your previos GitHub account.
 
+---
+
 ## Exporting Account Data
 
 By following these steps, you can export all repositories and profile metadata of your account.
@@ -60,6 +62,8 @@ After some minutes depending on the some factors including the size of your repo
 
 !["Download Export button"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DownloadExport.png?raw=true)
 {: .px-auto }
+
+---
 
 ## Deleting GitHub Account
 
