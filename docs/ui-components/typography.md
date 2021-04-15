@@ -34,6 +34,8 @@ To add a secondary email address to your GitHub account, or prior to change the 
 
 **3.** Click on **Verify** link of an email which will be send to your newly added email address.
 
+<br/><br/>
+
 ## Changing Primary Email Address
 
 Once you add a secondary email address to your GitHub accound, you can change your _Primary Email Address_ from one to the other by following these steps.
@@ -46,6 +48,7 @@ Once you add a secondary email address to your GitHub accound, you can change yo
 
 **3.** Click **Save** button next to this dropdown list.
 
+<br/><br/>
 ## Changing Backup Email Address Settings
 
 By following these steps, you can switch the setting for your backup email address between _Allow all verified emails_ and _Only allow primary email_.
