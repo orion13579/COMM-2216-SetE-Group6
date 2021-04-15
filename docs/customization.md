@@ -18,7 +18,11 @@ The following set of instructions will teach you how to create and delete reposi
 
 First, you must be logged into your GitHub account.
 
-Then left-click on your profile picture in the top-right corner of the site and left click Your repositories.
+Then left-click on your profile picture in the top-right corner of the site and left click **Your repositories**.
 
 !["Accessing Your Repositories Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Your%20Repositories.png?raw=true)
+
+This will take you to *Your repositories* page and just below your profile picture in the top-right corner is a green **New**button. Please left click this button.
+
+!["New button on Your repositories page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/New%20Repositories.png?raw=true)
 
