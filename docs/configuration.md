@@ -50,7 +50,7 @@ If this step was successful, you should see a new empty file page, as shown belo
 
 !["New Empty File Editing Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image3NewEmptyFileEditingPage.PNG?raw=true)
 
-Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the “Writing and Commiting a File” subsection.
+Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the [“Writing and Commiting a File”](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#writing-and-commiting-a-file) subsection.
 
 |   **Caution:** If you do not complete the “Writing and Commiting a File” task the file will not be saved.
 
