@@ -62,6 +62,6 @@ By following these steps, you can switch the setting for your backup email addre
 
 ---
 
-This _Account Settings Configuration_ part of this instruction manual has covered some basic configuration for your account.
+The _Account Settings Configuration_ part of this instruction manual has covered some basic configuration for your account.
 
 Now that you are done with the configuration of your GitHub account's _Settings_, you can read about _Creating and Deleting Repositories_ in the next part of this instruction manual.
