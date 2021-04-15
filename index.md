@@ -59,11 +59,13 @@ These instructions use the following typographic conventions.
 
 Convention                          Typeface              Examples
 Button or hyperlink to be clicked   **[Bold]**          **Add File**, **New**, etc
-Page titles or technical terms      Italics           Settings Page, repository, etc
+Page titles or technical terms      Italics           _Settings Page_, _repository_, etc
 
-Note: This is a note icon which indicates please pay attention to the following.
-Caution: This a caution icon which indicates please be careful with the following.
-Warning: This a warning icon which indicates an irreversible action with high consequences, proceed at your own risk.
+|   **Note:** This is a note icon which indicates please pay attention to the following.
+
+|   **Caution:** This a caution icon which indicates please be careful with the following.
+
+|   **Warning:** This a warning icon which indicates an irreversible action with high consequences, proceed at your own risk.
 
 ## Conclusion
 
