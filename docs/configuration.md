@@ -8,11 +8,15 @@ nav_order: 4
 # Creating, Modifying, and Deleting Files in GitHub
 {: .no_toc }
 
+---
+
 Though GitHub is not usually used as an interface for writing code, it does have the functionality to create, edit, delete files and create folders. 
 
 This section’s goal is to explain and show you how to use these file manipulation techniques to add to your repositories. If you really wanted to, by the end of this section, you could start programming your applications in GitHub instead of an IDE.
 
 To start, let’s create a repository. You can follow the previous, “Create / Delete a Repository”, task instructions if you need a refresher.
+
+---
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -24,7 +28,11 @@ To start, let’s create a repository. You can follow the previous, “Create / 
 
 ## Create a File
 
+<br/><br/>
+
 Depending on how the repository was created, with or without a README file, your repository page will look slightly different. Please see the two possible cases below, an empty repository / a repository with a file already in it,  to see what case matches your situation.
+
+<br/><br/>
 
 ### Create a File From An Empty Repository
 
@@ -47,6 +55,8 @@ If this step was successful, you should see a new empty file page, as shown belo
 Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the “Writing and Commiting a File” subsection.
 
 |   **Caution:** If you do not complete the “Writing and Commiting a File” task the file will not be saved.
+
+<br/><br/>
 
 ### Create a File From a Repository Already Containing a File
 
@@ -81,6 +91,8 @@ If this step was successful, you should see a new empty file page, as shown belo
 !["New Empty File Editing Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image3NewEmptyFileEditingPage.PNG?raw=true)
 
 Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the “Writing and Commiting a File” subsection.
+
+---
 
 ## Writing and Commiting a File
 
@@ -133,6 +145,8 @@ For example, we left our commit message as the default message “Update testFil
 
 This will save your file changes to your repository.
 
+---
+
 ## Edit a File
 
 Once a file is created it is not immutable, you can edit it’s contents, name, location, and even it’s type.
@@ -169,6 +183,8 @@ Some key feature of this page include:
 !["File Specifc Page, Edit File Icon Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image19FileSpecificPageEditHighlight.PNG?raw=true)
 
 If this step was successful, you should see the editing page for your file, as discussed in the “Writing and Commiting a File” subsection.
+
+---
 
 ## Delete a File
 
@@ -219,7 +235,5 @@ The button can be found here.
 The file is now deleted, your page should now have returned to your repository page similar to below.
 
 !["Repository Page With File Removed"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image26RepositoryAfterFileDeleted.PNG?raw=true)
-
-## Conclusion
 
 Now you should have all the tools you need to create, edit, and delete files in GitHub. This in conjunction with the Create / Delete a Repository instruction section allows you to create any project you may desire in GitHub. However, you unfortunately can’t run these programs at this time.
