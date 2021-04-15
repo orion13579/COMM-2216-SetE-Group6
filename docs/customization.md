@@ -13,6 +13,13 @@ Repositories are a major component of GitHub and is one of the most useful tools
 
 The following set of instructions will teach you how to create and delete repositories on GitHub. 
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Creating a Repository 
 
