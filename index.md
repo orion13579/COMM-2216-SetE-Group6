@@ -53,12 +53,6 @@ If you plan to be a software developer, GitHub is an essential tool that is used
 
 This guide was created on April 15, 2021, and is based on the GitHub browser graphical user interface portrayed at this time. Future changes to the GitHub browser may make this guide outdated.
 
-### Configure Just the Docs
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
-
----
-
 ## Typographical Conventions
 
 These instructions use the following typographic conventions.
