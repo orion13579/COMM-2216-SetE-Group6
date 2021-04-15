@@ -156,7 +156,7 @@ Each file in your repository will have it’s own row, so look through the rows 
 
 If successful, you should arrive at the file specific screen that looks similar to below.
 
-!["File Specifc Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image18FileSpecificPage.PNG?raw=true)
+!["File Specifc Page Features"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image18FileSpecificPage.PNG?raw=true)
 
 **2.** Click on the pencil icon.
 
@@ -170,3 +170,57 @@ Some key feature of this page include:
 !["File Specifc Page, Edit File Icon Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image19FileSpecificPageEditHighlight.PNG?raw=true)
 
 If this step was successful, you should see the editing page for your file, as discussed in the “Writing and Commiting a File” subsection.
+
+## Delete a File
+
+This section will show you how to delete a file and edit it in the above mentioned ways.
+
+To start, you should have your repository opened to it’s home page, with at least one file already in it. If your repository is empty, please refer to the Create a File instructions above.
+
+At this point your screen should look similar to the image below
+
+!["Repository Home Page Containing a File"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image16RepositoryContainingAFile.PNG?raw=true)
+
+**1.** Click on the name of the file you want to delete.
+
+The image below shows the general location of the file names.
+
+!["Repository Containing a File, File Name Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image17RepositoryContainingAFileFileNameHighlight.PNG?raw=true)
+
+Each file in your repository will have it’s own row, so look through the rows to find the file you want to edit.
+
+If successful, you should arrive at the file specific screen that looks similar to below.
+
+!["File Specifc Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image20FileSpecificPage.PNG?raw=true)
+
+**2.** Click on the trashcan icon to delete the file.
+
+!["File Specifc Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image21FileSpecificPageDeleteIconHighlight.PNG?raw=true)
+
+Note: When you hover over the trashcan the “Delete this file” message will popup as shown below.
+
+!["File Specifc Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image22HoverOverTrashcanIcon.PNG?raw=true)
+
+You should now see the file delete page as shown below..
+
+!["Delete File Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image23DeleteFilePage.PNG?raw=true)
+
+**3.** Scroll to the bottom of the page.
+
+The page should look similar to below.
+
+!["Delete File Page Botton Of Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image24DeleteFilePageBottomOfPage.PNG?raw=true)
+
+**4.** Click on the Commit changes button.
+
+The button can be found here.
+
+!["Delete File Page Commit Changes Button"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image25DeleteFilePageBottomOfPageHighlightCommitChangesButton.PNG?raw=true)
+
+The file is now deleted, your page should now have returned to your repository page similar to below.
+
+!["Repository Page With File Removed"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image26RepositoryAfterFileDeleted.PNG?raw=true)
+
+## Conclusion
+
+Now you should have all the tools you need to create, edit, and delete files in GitHub. This in conjunction with the Create / Delete a Repository instruction section allows you to create any project you may desire in GitHub. However, you unfortunately can’t run these programs at this time.
