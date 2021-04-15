@@ -22,15 +22,11 @@ The following set of instructions will teach you how to create and delete reposi
 
 **2.** Then left-click on your profile picture in the top-right corner of the site and left click **Your repositories**. 
 
-<br/><br/>
-
 !["Accessing Your Repositories Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Your%20Repositories.png?raw=true) 
 
 <br/><br/>
 
 **3.** This will take you to *Your Repositories* page and just below your profile picture in the top-right corner is a green **New** button. Please left click this button. 
-
-<br/><br/>
 
 !["New button on Your repositories page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/New%20Repositories.png?raw=true) 
 
@@ -41,8 +37,6 @@ The following set of instructions will teach you how to create and delete reposi
 **5.** Right below the description you can choose to keep the repository **Public** (anyone can see) or **Private** (you choose who sees). 
 
 **6.** Finally, left click **Create repository** at the bottom of the page. 
-
-<br/><br/>
 
 !["Create a new repository page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Create%20Repository.png?raw=true) 
 
@@ -59,15 +53,11 @@ You have successfully created a repository and you can access it on *Your Reposi
 
 **2.** Then press the *Settings* tab that is below the name of the respository. 
 
-<br/><br/>
-
 !["Settings tab on a repository"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Repository%20settings.png?raw=true) 
 
 <br/><br/>
 
 **3.** This will take you to the settings page. You should see the *Settings* header in the middle of the page. If you do not, then please left click on the **Options** section on the left side of the page. 
-
-<br/><br/>
 
 !["Settings options sidebar"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Settings%20Options.png?raw=true) 
 
@@ -75,17 +65,15 @@ You have successfully created a repository and you can access it on *Your Reposi
 
 Then scroll down to the bottom of this page and you should see a *Danger Zone* section. There will be a button, **Delete this repository** in the bottom right-hand corner of this section. 
 
-<br/><br/>
-
 !["Danger zone section in settings of a repository"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Danger%20Zone.png?raw=true) 
 
 <br/><br/>
 
 **4.**  Left click the  **Delete this repository** button and a pop-up will appear for you to confirm to delete this repository. 
 
-**5.** Type what you are showed to type, which is your account and repository name, and then press on the **I understand the consequences, delete this repository** button. 
+|   **Warning:** If you follow through with the next step, the repository will be deleted and cannot be retrieved.
 
-<br/><br/>
+**5.** Type what you are showed to type, which is your account and repository name, and then press on the **I understand the consequences, delete this repository** button. 
 
 !["Confirmation to delete a respository"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Delete%20Repository.png?raw=true) 
 
