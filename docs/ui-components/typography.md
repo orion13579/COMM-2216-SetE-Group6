@@ -59,3 +59,9 @@ By following these steps, you can switch the setting for your backup email addre
 **2.** Choose your preferrence between _Allow all verified emails_ and _Only allow primary email_ from the dropdown list.
 
 **3.** Click **Save** button next to this dropdown list.
+
+---
+
+This _Account Settings Configuration_ part of this instruction manual has covered some basic configuration for your account.
+
+Now that you are done with the configuration of your GitHub account's _Settings_, you can read about _Creating and Deleting Repositories_ in the next part of this instruction manual.
