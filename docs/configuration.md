@@ -136,60 +136,37 @@ This will save your file changes to your repository.
 
 ## Edit a File
 
+Once a file is created it is not immutable, you can edit it’s contents, name, location, and even it’s type.
 
+This section will show you how to access a file and edit it in the above mentioned ways.
 
+To start, you should have your repository opened to it’s home page, with at least one file already in it. If your repository is empty, please refer to the Create a File instructions above.
 
+At this point your screen should look similar to the image below.
 
+!["Repository Containing a File"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image16RepositoryContainingAFile.PNG?raw=true)
 
+**1.** Click on the name of the file you want to edit.
 
-**1.** Click on the **Change username** button after reading about **unintended side effects** by the provided link and probable 
-consequences of changing a user account.
+The image below shows the general location of the file names.
 
-!["Changing GitHub Username"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ChangingUsername.png?raw=true)
+!["Repository Containing a File, File Name Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image17RepositoryContainingAFileFileNameHighlight.PNG?raw=true)
 
-**2.** Click on the **I understand, let's change my username** button in the opened window if you agree and intend to proceed.
+Each file in your repository will have it’s own row, so look through the rows to find the file you want to edit.
 
-!["Warning for User account"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/UseraccountChangeWarning.png?raw=true)
+If successful, you should arrive at the file specific screen that looks similar to below.
 
-**3.** Follow the steps of the loaded wizard, which is mostly the same as steps you took to create your previos GitHub account.
+!["File Specifc Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image18FileSpecificPage.PNG?raw=true)
 
-## Exporting Account Data
+**2.** Click on the pencil icon.
 
-By following these steps, you can export all repositories and profile metadata of your account.
+Some key feature of this page include:
+1. This is the path to the file you selected. In this example, the path shows that you are looking at the “testFile.py” file in the “test” repository. This path may be different for you depending on what you named your repository and files.
+|   **Note:** an easy way to return to your main repository page is that you can click on any parent directories, such as the “test” repository in the path mentioned above.
+2. This area provides general file information such as how many lines are in your file and the size of your file.
+3. These are the main tools for manipulating your files. We will only be looking at the pencil and trashcan tool in this instruction manual.
+4. This section contains the contents of your file. In this example we only have a single line in our file, but if you had many lines you could see them all here.
 
-|   **Note:** A link to download your export request will be send to your _Backup email address_. You can change the related settings by taking the steps provided in the _Emails_ section of this instruction manual.
+!["File Specifc Page, Edit File Icon Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image19FileSpecificPageEditHighlight.PNG?raw=true)
 
-**1.** Click on the **Start export** button.
-
-!["Export account data"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ExportingAccountData.png?raw=true)
-
-At this point, a message will be shown in this same box reporting that your exported is being prepared.
-
-After some minutes depending on the some factors including the size of your repositories, you will receive an email (with a link similar to the picure below) in your chosen Backup Email Address for your GitHub account.
-{: .pl-4 }
-
-!["Export message"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ExportInProgress.png?raw=true)
-{: .px-auto }
-
-**3.** Click on the blue **Download export** bottun and save it somewhere safe in your hard drive or in other trusted resources.
-
-!["Download Export button"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DownloadExport.png?raw=true)
-{: .px-auto }
-
-## Deleting GitHub Account
-
-If at any point, you decide to delete your GitHub account and its repositories, you can do so by clicking on the red **Delete your account** on this _Account_ section of the _Settings_ page.
-
-|   **Warning:** Once you delete your account by doing these steps, there is no going back. All of your repositories, along with all of your forks, pull requests, and GitHub pages sites will be deleted. Besides, your username will be available to anyone on GitHub.
-
-**1.** Click on the red **Delete your account** button.
-
-!["Deleting user account"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DeletingAccount.png?raw=true)
-
-At this point, you will receive a confirmation message in a pop-up window.
-{: .pl-4 }
-
-!["Delete account confirmation window"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DeleteAccountConfirmation.png?raw=true)
-{: .px-auto }
-
-**2.**  Type your username or email address in the first field of this window, and type the shown confirmation message in the second. Once done, you can click on the **cancel plan and delete this account** button to completely remove your account and its data from GitHub.
+If this step was successful, you should see the editing page for your file, as discussed in the “Writing and Commiting a File” subsection.
