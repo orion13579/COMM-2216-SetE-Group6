@@ -26,7 +26,6 @@ The following set of instructions will teach you how to create and delete reposi
 
 ## Creating a Repository 
 
-<br/><br/>
 
 **1.** First, you must be logged into your GitHub account. 
 
@@ -54,10 +53,10 @@ The following set of instructions will teach you how to create and delete reposi
 
 You have successfully created a repository and you can access it on *Your Repositories* page. 
 
+---
 
 ## Deleting a Repository 
 
-<br/><br/>
 
 **1.** To delete a repository, you must first be on *Your Repositories* page and left click on the repository that you want to delete. 
 
