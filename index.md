@@ -14,7 +14,7 @@ permalink: /
 
 The purpose of this document is to help new users perform basic actions on the GitHub browser. The sections of this document will guide users from the moment after they have created a GitHub account through learning how to create repositories, populate those repositories with files, and personalize their profile.
 
-GitHub is a source code management and version control platform for software development, that allows users to store their code, collaborate with others, and track file history.
+GitHub is a _source code management_ and _version control platform_ for software development, that allows users to store their code, collaborate with others, and track file history.
 
 In particular this instruction will be focussing on GitHub utilized through a browser at github.com.
 
