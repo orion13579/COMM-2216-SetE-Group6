@@ -57,7 +57,7 @@ This will send you to the *Create a New Repository* page.
 
 **7.** Click **Create repository** at the bottom of the page.
 
-!["Create a new repository page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Create%20Repository.png?raw=true)
+!["Create a new repository page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Create%20Repository%202-%20Copy.png?raw=true)
 
 <br/><br/>
 
