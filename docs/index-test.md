@@ -50,7 +50,7 @@ To solve this problem do the following.
 For clarification, the button has been marked by a red box in the image below.
 {: .pl-4 }
 
-!["Cancel File Changes Button Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image27CancelChangesFix.png?raw=true)
+!["Cancel File Changes Button Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image27CancelChangesFix.PNG?raw=true)
 
 ---
 
@@ -67,4 +67,4 @@ To solve this problem do the following.
 For clarification, the hyperlinks has been marked by a red box in the image below.
 {: .pl-4 }
 
-!["Return home hyperlinks"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image28LostFix.png?raw=true)
+!["Return home hyperlinks"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image28LostFix.PNG?raw=true)
