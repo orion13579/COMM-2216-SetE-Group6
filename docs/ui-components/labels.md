@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Profile section
+title: Profile Section
 parent: Account Settings Configuration
 nav_order: 2
 ---

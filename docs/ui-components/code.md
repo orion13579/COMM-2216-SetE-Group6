@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Account Security section
+title: Account Security Section
 parent: Account Settings Configuration
 nav_order: 4
 ---

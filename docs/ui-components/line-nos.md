@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Account section
+title: Account Section
 parent: Account Settings Configuration
 nav_order: 3
 ---
@@ -63,7 +63,7 @@ After some minutes depending on the some factors including the size of your repo
 !["Export message"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/ExportInProgress.png?raw=true)
 {: .px-auto }
 
-**3.** Click on the blue **Download export** bottun and save it somewhere safe in your hard drive or in other trusted resources.
+**3.** Click on the blue **Download export** button and save it somewhere safe in your hard drive or in other trusted resources.
 
 !["Download Export button"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/DownloadExport.png?raw=true)
 {: .px-auto }

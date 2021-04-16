@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accessing the Settings page
+title: Accessing the Settings Page
 parent: Account Settings Configuration
 nav_order: 1
 ---
