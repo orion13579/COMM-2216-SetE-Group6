@@ -10,11 +10,15 @@ permalink: /
 # Introduction
 {: .no_toc }
 
+---
+
 The purpose of this document is to help new users perform basic actions on the GitHub browser. The sections of this document will guide users from the moment after they have created a GitHub account through learning how to create repositories, populate those repositories with files, and personalize their profile.
 
 GitHub is a source code management and version control platform for software development, that allows users to store their code, collaborate with others, and track file history.
 
 In particular this instruction will be focussing on GitHub utilized through a browser at github.com.
+
+---
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -34,6 +38,8 @@ There are many GitHub guides for GitHub basics. However, these can be overwhelmi
 * Create and Delete a Repository
 * Create, Modify, and Delete Files
 
+---
+
 ## Prerequisites
 
 To follow along with this instruction manual, you will require the following:
@@ -43,23 +49,25 @@ To follow along with this instruction manual, you will require the following:
 * an already created GitHub account, of any plan (Free, Enterprise, etc)
 * a general understanding of basic computer tasks
 
+---
+
 ## Why Learn and Use GitHub
 
 GitHub is an extremely popular tool used by software developers all around the World. GitHub allows you to store your code safely and securely online, where you can access it from any internet enabled device. It allows users to collaborate with others on applications and  have access to a source code management and distributed version control platform from their home or work computers. With this, users can work privately without a network connection to a central computer holding other peers updated code. There are multiple user plans, including a free plan for casual users.
 
 If you plan to be a software developer, GitHub is an essential tool that is used by both casual and professional software developers. With this in mind, we hope that this guide will provide you an introduction into GitHub and how to use it.
 
+---
+
 ## Limitations
 
 This guide was created on April 15, 2021, and is based on the GitHub browser graphical user interface portrayed at this time. Future changes to the GitHub browser may make this guide outdated.
 
+---
+
 ## Typographical Conventions
 
 These instructions use the following typographic conventions.
-
-Convention                          Typeface              Examples
-Button or hyperlink to be clicked   **[Bold]**          **Add File**, **New**, etc
-Page titles or technical terms      Italics           _Settings Page_, _repository_, etc
 
 | Convention                        | Typeface    | Examples                            |
 |:----------------------------------|:------------|:------------------------------------|
@@ -71,6 +79,8 @@ Page titles or technical terms      Italics           _Settings Page_, _reposito
 |   !["Caution Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Caution.png?raw=true){: style="float: left"} **Caution:** This a caution icon which indicates please be careful with the following.
 
 |   !["Warning Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Warning.png?raw=true){: style="float: left"} **Warning:** This a warning icon which indicates an irreversible action with high consequences, proceed at your own risk.
+
+---
 
 ## Conclusion
 

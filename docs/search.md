@@ -6,6 +6,8 @@ nav_order: 5
 
 # Glossary
 
+---
+
 
 **Profile** - a representation of something
 
