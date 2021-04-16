@@ -10,7 +10,7 @@ nav_order: 3
 
 ---
 
-_Repositories_ are a major component of GitHub and is one of the most useful tools on it. You can create a _repository_ and upload all your projects files onto it. Additionally, you can see the history of your uploads, modifications, and deletions. It is very handy to use when a problem arises, and you want to find out what and when it happened.
+_Repositories_ are a major component of GitHub and is one of the most useful tools on it. You can create a _repository_ and upload all your project files onto it. Additionally, you can see the history of your uploads, modifications, and deletions. It is very handy to use when a problem arises, and you want to find out what and when it happened.
 
 The following set of instructions will teach you how to create and delete repositories on GitHub.
 
@@ -25,7 +25,6 @@ The following set of instructions will teach you how to create and delete reposi
 ---
 
 ## Creating a Repository
-
 
 **1.** Log into your GitHub account.
 

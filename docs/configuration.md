@@ -118,12 +118,12 @@ Now that you have created or edited a file, you should now be at the file editin
 This is where you can modify the contents, name, location, or even type of your file.
 
 The top of this page has two important features:
-<ol type=none>
-  <li>This text box is where you can input or edit the file name and type of your file.</li>
-  <li>This is where you can modify the contents of your file by adding, editing, or removing lines of code.</li>
-</ol>
 
+A) This text box is where you can input or edit the file name and type of your file.
+{: .pl-4 }
 
+B) This is where you can modify the contents of your file by adding, editing, or removing lines of code.
+{: .pl-4 }
 
 **1.** Give this file a name.
 
