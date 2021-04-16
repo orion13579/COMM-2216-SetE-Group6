@@ -51,13 +51,11 @@ This will send you to the *Create a New Repository* page.
 
 |   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** You can give the repository an optional description as well. 
 
-**6.** Right below the description you can choose to keep the repository **Public** (anyone can see) or **Private** (you choose who sees).
-
 **6.** Select one of the **Public** (anyone can see) or **Private** (you choose who sees) bubbles, located below the optional description.
 
 **7.** Click **Create repository** at the bottom of the page.
 
-!["Create a new repository page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Create%20Repository%202-%20Copy.png?raw=true)
+!["Create a new repository page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Create%20Repository%203.png?raw=true)
 
 <br/><br/>
 
