@@ -69,10 +69,10 @@ This guide was created on April 15, 2021, and is based on the GitHub browser gra
 
 These instructions use the following typographic conventions.
 
-| Convention                        | Typeface    | Examples                            |
-|:----------------------------------|:------------|:------------------------------------|
-| Button or hyperlink to be clicked | **[Bold]**  | **Add File**, **New**, etc          |
-| Page titles or technical terms    | _Italics_   | _Settings Page_, _repository_, etc  |
+| Convention                        | Typeface    | Examples                              |
+|:----------------------------------|:------------|:--------------------------------------|
+| Button or hyperlink to be clicked | **[Bold]**  | **Add File**, **New**, **etc**        |
+| Page titles or technical terms    | _Italics_   | _Settings Page_, _repository_, _etc_  |
 
 |   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** This is a note icon which indicates please pay attention to the following.
 
