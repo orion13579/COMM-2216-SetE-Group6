@@ -63,10 +63,6 @@ This guide was created on April 15, 2021, and is based on the GitHub browser gra
 
 These instructions use the following typographic conventions.
 
-Convention                          Typeface              Examples
-Button or hyperlink to be clicked   **[Bold]**          **Add File**, **New**, etc
-Page titles or technical terms      Italics           _Settings Page_, _repository_, etc
-
 | Convention                        | Typeface    | Examples                            |
 |:----------------------------------|:------------|:------------------------------------|
 | Button or hyperlink to be clicked | **[Bold]**  | **Add File**, **New**, etc          |
