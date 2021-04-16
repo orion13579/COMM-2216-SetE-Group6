@@ -30,8 +30,8 @@ To start, let’s create a repository. You can follow the previous, [_Creating a
 
 Depending on how the repository was created, with or without a README file, your repository page will look slightly different. 
 
-If you cretaed an empty repository with no files whatsoever, please refer to the ["Create a File From An Empty Repository"](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#create-a-file-from-an-empty-repository) subsection. 
-On the other hand, if you created a repository with a README file or you are adding a new file to an existing repository already containg files, please refer to the ["Create a File From a Repository Already Containing a File"](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#create-a-file-from-a-repository-already-containing-a-file) subsection. 
+If you cretaed an empty repository with no files whatsoever, please refer to the [_Create a File From An Empty Repository_](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#create-a-file-from-an-empty-repository) subsection.
+On the other hand, if you created a repository with a README file or you are adding a new file to an existing repository already containg files, please refer to the [_Create a File From a Repository Already Containing a File_](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#create-a-file-from-a-repository-already-containing-a-file) subsection.
 
 Please refer to the relevant subsection and we'll walk you through how to create a new file.
 
@@ -55,7 +55,7 @@ If this step was successful, you should see a new empty file page, as shown belo
 
 !["New Empty File Editing Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image3NewEmptyFileEditingPage.PNG?raw=true)
 
-Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the [“Writing and Commiting a File”](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#writing-and-commiting-a-file) section.
+Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the [_Writing and Commiting a File_](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#writing-and-commiting-a-file) section.
 
 |   !["Caution Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Caution.png?raw=true){: style="float: left"} **Caution:** If you do not complete the “Writing and Commiting a File” section the file will not be saved.
 
@@ -95,7 +95,7 @@ If this step was successful, you should see a new empty file page, as shown belo
 
 !["New Empty File Editing Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image3NewEmptyFileEditingPage.PNG?raw=true)
 
-Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the [“Writing and Commiting a File”](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#writing-and-commiting-a-file) section.
+Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the [_Writing and Commiting a File_](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#writing-and-commiting-a-file) section.
 
 |   !["Caution Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Caution.png?raw=true){: style="float: left"} **Caution:** If you do not complete the “Writing and Commiting a File” section the file will not be saved.
 
@@ -110,12 +110,10 @@ Now that you have created or edited a file, you should now be at the file editin
 This is where you can modify the contents, name, location, or even type of your file.
 
 The top of this page has two important features:
-<ol type="A">
+<ol list-style-type="upper-alpha">
   <li>This text box is where you can input or edit the file name and type of your file.</li>
   <li>This is where you can modify the contents of your file by adding, editing, or removing lines of code.</li>
 </ol>
-(A)  This text box is where you can input or edit the file name and type of your file.
-(B)  This is where you can modify the contents of your file by adding, editing, or removing lines of code.
 
 **1.** Give this file a name.
 
@@ -162,7 +160,7 @@ Once a file is created it is not immutable, you can edit it’s contents, name, 
 
 This section will show you how to access an already created file's editing page.
 
-To start, you should have your repository opened to it’s home page, with at least one file already in it. If your repository is empty, please refer to the ["Create a File From An Empty Repository"](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#create-a-file-from-an-empty-repository) section for a refresher.
+To start, you should have your repository opened to it’s home page, with at least one file already in it. If your repository is empty, please refer to the [_Create a File From An Empty Repository_](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#create-a-file-from-an-empty-repository) section for a refresher.
 
 At this point your screen should look similar to the image below.
 
@@ -181,33 +179,36 @@ If successful, you should arrive at the file specific screen that looks similar 
 !["File Specifc Page Features"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image18FileSpecificPage.PNG?raw=true)
 
 Some key feature of this page include:
-1. This is the path to the file you selected. In this example, the path shows that you are looking at the “testFile.py” file in the “test” repository. This path may be different for you depending on what you named your repository and files.
-|   **Note:** an easy way to return to your main repository page is that you can click on any parent directories, such as the “test” repository in the path mentioned above.
-2. This area provides general file information such as how many lines are in your file and the size of your file.
-3. These are the main tools for manipulating your files. We will only be looking at the pencil and trashcan tool in this instruction manual.
-4. This section contains the contents of your file. In this example we only have a single line in our file, but if you had many lines you could see them all here.
+<ol list-style-type="upper-alpha">
+  <li>This is the path to the file you selected. In this example, the path shows that you are looking at the “testFile.py” file in the “test” repository. This path may be different for you depending on what you named your repository and files.</li>
+  <li>This area provides general file information such as how many lines are in your file and the size of your file.</li>
+  <li>These are the main tools for manipulating your files. We will only be looking at the pencil and trashcan tool in this instruction manual.</li>
+  <li>This section contains the contents of your file. In this example we only have a single line in our file, but if you had many lines you could see them all here.</li>
+</ol>
+
+|   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** An easy way to return to your main repository page is that you can click on any parent directories, such as the “test” repository in the path mentioned above.
 
 **2.** Click on the pencil icon.
 
 !["File Specifc Page, Edit File Icon Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image19FileSpecificPageEditHighlight.PNG?raw=true)
 
-If this step was successful, you should see the editing page for your file, as discussed in the [“Writing and Commiting a File”](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#writing-and-commiting-a-file) section.
+If this step was successful, you should see the editing page for your file, as discussed in the [_Writing and Commiting a File_](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#writing-and-commiting-a-file) section.
 
 ---
 
 ## Delete a File
 
-This section will show you how to delete a file and edit it in the above mentioned ways.
+This section will show you how to delete a file.
 
-To start, you should have your repository opened to it’s home page, with at least one file already in it. If your repository is empty, please refer to the Create a File instructions above.
+To start, you should have your repository opened to it’s home page, with at least one file already in it. If your repository is empty, please refer to the [_Create a File From An Empty Repository_](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#create-a-file-from-an-empty-repository) section for a refresher.
 
-At this point your screen should look similar to the image below
+At this point your screen should look similar to the image below.
 
 !["Repository Home Page Containing a File"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image16RepositoryContainingAFile.PNG?raw=true)
 
 **1.** Click on the name of the file you want to delete.
 
-The image below shows the general location of the file names.
+For clarification, the image below shows the general location of the file names.
 
 !["Repository Containing a File, File Name Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image17RepositoryContainingAFileFileNameHighlight.PNG?raw=true)
 
@@ -221,11 +222,11 @@ If successful, you should arrive at the file specific screen that looks similar 
 
 !["File Specifc Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image21FileSpecificPageDeleteIconHighlight.PNG?raw=true)
 
-Note: When you hover over the trashcan the “Delete this file” message will popup as shown below.
+|   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** When you hover over the trashcan the “Delete this file” message will popup as shown below.
 
 !["File Specifc Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image22HoverOverTrashcanIcon.PNG?raw=true)
 
-You should now see the file delete page as shown below..
+After the icon has been clicked, you should now see the file delete page as shown below.
 
 !["Delete File Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image23DeleteFilePage.PNG?raw=true)
 
@@ -235,9 +236,9 @@ The page should look similar to below.
 
 !["Delete File Page Botton Of Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image24DeleteFilePageBottomOfPage.PNG?raw=true)
 
-**4.** Click on the Commit changes button.
+**4.** Click on the **Commit changes** button.
 
-The button can be found here.
+For clarification, the button can be found here.
 
 !["Delete File Page Commit Changes Button"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image25DeleteFilePageBottomOfPageHighlightCommitChangesButton.PNG?raw=true)
 
@@ -245,4 +246,4 @@ The file is now deleted, your page should now have returned to your repository p
 
 !["Repository Page With File Removed"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image26RepositoryAfterFileDeleted.PNG?raw=true)
 
-Now you should have all the tools you need to create, edit, and delete files in GitHub. This in conjunction with the Create / Delete a Repository instruction section allows you to create any project you may desire in GitHub. However, you unfortunately can’t run these programs at this time.
+Now you should have all the tools you need to create, edit, and delete files in GitHub. This, in conjunction with the _Creating and Deleting Repositories_ instruction task allows you to create any project you may desire in GitHub. However, you unfortunately can’t run these programs through GitHub directly.
