@@ -8,8 +8,6 @@ permalink: /
 
 
 # Introduction
-
----
 {: .no_toc }
 
 ---
