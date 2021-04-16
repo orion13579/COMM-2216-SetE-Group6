@@ -8,12 +8,6 @@ nav_order: 3
 # Account section
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
 This section is not a part of basic configuration for a newly created user account. However, it will help you with some steps that may become handy after a while.
@@ -21,6 +15,16 @@ This section is not a part of basic configuration for a newly created user accou
 In this account section of the _Settings_ page, you can change your GitHub username, export account data whenever you intend to migrate it from this account, and delete your account if you intend to remove this account and its data from GitHub.
 
 |   !["Warning Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Warning.png?raw=true){: style="float: left"} **Warning:** Any changes covered in this section can have unintended side effects or irreversible consequences.
+
+---
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Changing Username
 

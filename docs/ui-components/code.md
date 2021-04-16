@@ -8,6 +8,12 @@ nav_order: 4
 # Account Security section
 {: .no_toc }
 
+---
+
+This section of the GitHub account's _Settings_ is not a necessity for newly created accounts. However, it will become handy whenever you decide to change your account's password.
+
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -15,7 +21,6 @@ nav_order: 4
 {:toc}
 
 ---
-This section of the GitHub account's _Settings_ is not a necessity for newly created accounts. However, it will become handy whenever you decide to change your account's password.
 
 ## Changing Password
 

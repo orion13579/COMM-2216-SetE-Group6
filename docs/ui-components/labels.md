@@ -8,12 +8,6 @@ nav_order: 2
 # Profile section
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
 In this _Profile_ section of the _Settings_ page, you can add or change the public information about yourself which you want to appear around GitHub. Here, 3 basic configurations that are fundamental before the appearance of your contributions around GitHub will be covered: Changing your public name, changing your profile picture, and adding additional information about yourself.
@@ -21,6 +15,16 @@ In this _Profile_ section of the _Settings_ page, you can add or change the publ
 |   !["Caution Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Caution.png?raw=true){: style="float: left"} **Caution:** Any changes covered in this section will not be saved until you press the green _Update profile_ button in the middle of this section.
 
 !["Press Update profile button to save changes"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/PressUpdateProfile.png?raw=true)
+
+---
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Changing Name
 
