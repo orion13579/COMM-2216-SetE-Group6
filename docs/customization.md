@@ -10,9 +10,9 @@ nav_order: 3
 
 ---
 
-Repositories are a major component of GitHub and is one of the most useful tools on it. You can create a repository and upload all your projects files onto it and see the history of your uploads. It is very handy to use when a problem arises, and you want to find out what and when it happened. 
+Repositories are a major component of GitHub and is one of the most useful tools on it. You can create a repository and upload all your projects files onto it. Additionally, you can see the history of your uploads, modifications, and deletions. It is very handy to use when a problem arises, and you want to find out what and when it happened.
 
-The following set of instructions will teach you how to create and delete repositories on GitHub. 
+The following set of instructions will teach you how to create and delete repositories on GitHub.
 
 ---
 
@@ -24,34 +24,42 @@ The following set of instructions will teach you how to create and delete reposi
 
 ---
 
-## Creating a Repository 
+## Creating a Repository
 
 
-**1.** First, you must be logged into your GitHub account. 
+**1.** Log into your GitHub account.
 
-**2.** Then left-click on your profile picture in the top-right corner of the site and left click **Your repositories**. 
+**2.** Left-click on your profile picture in the top-right corner of the site.
+
+**3.** Left click **Your repositories** in the dropdown that appears.
 
 !["Accessing Your Repositories Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Your%20Repositories.png?raw=true) 
 
+This will take you to *Your Repositories* page.
+
 <br/><br/>
 
-**3.** This will take you to *Your Repositories* page and just below your profile picture in the top-right corner is a green **New** button. Please left click this button. 
+**4.** Left click the green **New** button, just below your profile picture in the top-right corner of your screen.
 
 !["New button on Your repositories page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/New%20Repositories.png?raw=true) 
 
-<br/><br/>
-
-**4.** Then in this *Create a New Repository* page, please enter a name for your repository in the *Repository name* section and you may put a description in if you wish. 
-
-**5.** Right below the description you can choose to keep the repository **Public** (anyone can see) or **Private** (you choose who sees). 
-
-**6.** Finally, left click **Create repository** at the bottom of the page. 
-
-!["Create a new repository page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Create%20Repository.png?raw=true) 
+This will send you to the *Create a New Repository* page.
 
 <br/><br/>
 
-You have successfully created a repository and you can access it on *Your Repositories* page. 
+**5.** Enter a name for your repository in the *Repository name* section and you may put a description in if you wish. 
+
+|   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** You can give the repository an optional description as well. 
+
+**6.** Select one of the **Public** (anyone can see) or **Private** (you choose who sees) bubbles, located below the optional description.
+
+**7.** Click **Create repository** at the bottom of the page.
+
+!["Create a new repository page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Create%20Repository%203.png?raw=true)
+
+<br/><br/>
+
+You have successfully created a repository and you can access it on *Your Repositories* page.
 
 ---
 
