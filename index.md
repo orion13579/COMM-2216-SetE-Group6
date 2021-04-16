@@ -74,7 +74,8 @@ Page titles or technical terms      Italics           _Settings Page_, _reposito
 
 ## Conclusion
 
-Having a reliable and potentially free tool that provides a variety of features to aid in your software development would be useful for both casual and professional software developers. 
-Now that you have an understanding of the importance of GitHub, let’s get started by Customizing your Profile and Settings.
+Having a reliable and potentially free tool that provides a variety of features to aid in your software development would be useful for both casual and professional software developers.
+
+Now that you have an understanding of the importance of GitHub, let’s get started by [Customizing your Profile and Settings](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/ui-components).
 
 !["GitHub Logo"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/GitHub_Logo.PNG?raw=true)
