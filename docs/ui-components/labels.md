@@ -18,7 +18,7 @@ nav_order: 2
 
 In this _Profile_ section of the _Settings_ page, you can add or change the public information about yourself which you want to appear around GitHub. Here, 3 basic configurations that are fundamental prior to the appearance of your contributions around GitHub will be covered: Changing your public name, changing your profile picture, and adding additional information about yourself.
 
-|   **Caution:** Any changes covered in this section will not be saved until you press the green _Update profile_ button in the middle of this section.
+|   !["Caution Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Caution.png?raw=true){: style="float: left"} **Caution:** Any changes covered in this section will not be saved until you press the green _Update profile_ button in the middle of this section.
 
 !["Press Update profile button to save changes"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/PressUpdateProfile.png?raw=true)
 
@@ -62,4 +62,4 @@ In addition to editing your profile name and picture, you may add other optional
 
 ---
 
-Here, we covered the essential parts of the profile section. In the next section, you can find instructions related to your user account.
+Here, we covered the essential parts of the profile section. In the next section, you can find instructions related to your [user account](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/ui-components/line-nos/).

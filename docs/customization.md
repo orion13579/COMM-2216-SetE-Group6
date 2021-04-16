@@ -82,7 +82,7 @@ Then scroll down to the bottom of this page and you should see a *Danger Zone* s
 
 **4.**  Left click the  **Delete this repository** button and a pop-up will appear for you to confirm to delete this repository. 
 
-|   **Warning:** If you follow through with the next step, the repository will be deleted and cannot be retrieved.
+|   !["Warning Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Warning.png?raw=true){: style="float: left"} **Warning:** If you follow through with the next step, the repository will be deleted and cannot be retrieved.
 
 **5.** Type what you are showed to type, which is your account and repository name, and then press on the **I understand the consequences, delete this repository** button. 
 
@@ -94,4 +94,4 @@ Then scroll down to the bottom of this page and you should see a *Danger Zone* s
 
 The repository has been successfully deleted on GitHub. If you go to *Your Repositories* page, the deleted repository will not appear. 
 
-You have now learned how to create and delete a repository on GitHub. Next step is to learn how to create a file in your repository.
+You have now learned how to create and delete a repository on GitHub. Next step is to learn how to [Create, Modify, And Delete Files](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/) in your repository.

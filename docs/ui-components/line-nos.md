@@ -20,13 +20,13 @@ This section is not a part of basic configuration for a newly created user accou
 
 In this account section of the _Settings_ page, you can change your GitHub username, export account data whenever you intend to migrate it from this account, and delete your account if you intend to remove this account and its data from GitHub.
 
-|   **Warning:** Any changes covered in this section can have unintended side effects or irreversible consequences.
+|   !["Warning Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Warning.png?raw=true){: style="float: left"} **Warning:** Any changes covered in this section can have unintended side effects or irreversible consequences.
 
 ## Changing Username
 
 Changing a previously chosen **GitHub username**, which is different from changing your publicly shown _Profile Name_, may be required in special situations. Here, we will cover the required process if, at any point, you decide to do so.
 
-|   **Caution:** As changing _GitHub username_ may result in unintended side effects such as loosing redirects to your previously created Pages sites or repositories, prior to changing your username, read all the provided links by GitHub carefully.
+|   !["Caution Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Caution.png?raw=true){: style="float: left"} **Caution:** As changing _GitHub username_ may result in unintended side effects such as loosing redirects to your previously created Pages sites or repositories, prior to changing your username, read all the provided links by GitHub carefully.
 
 **1.** Click on the **Change username** button after reading about **unintended side effects** by the provided link and probable consequences of changing a user account.
 
@@ -44,7 +44,7 @@ Changing a previously chosen **GitHub username**, which is different from changi
 
 By following these steps, you can export all repositories and profile metadata of your account.
 
-|   **Note:** A link to download your export request will be send to your _Backup email address_. You can change the related settings by taking the steps provided in the _Emails_ section of this instruction manual.
+|   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** A link to download your export request will be send to your _Backup email address_. You can change the related settings by taking the steps provided in the _Emails_ section of this instruction manual.
 
 **1.** Click on the **Start export** button.
 
@@ -70,7 +70,7 @@ After some minutes depending on the some factors including the size of your repo
 
 If at any point, you decide to delete your GitHub account and its repositories, you can do so by clicking on the red **Delete your account** on this _Account_ section of the _Settings_ page.
 
-|   **Warning:** Once you delete your account by doing these steps, there is no going back. All of your repositories, along with all of your forks, pull requests, and GitHub pages sites will be deleted. Besides, your username will be available to anyone on GitHub.
+|   !["Warning Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Warning.png?raw=true){: style="float: left"} **Warning:** Once you delete your account by doing these steps, there is no going back. All of your repositories, along with all of your forks, pull requests, and GitHub pages sites will be deleted. Besides, your username will be available to anyone on GitHub.
 
 **1.** Click on the red **Delete your account** button.
 
@@ -86,4 +86,4 @@ At this point, you will receive a confirmation message in a pop-up window.
 
 ---
 
-In this section, we covered essential steps that may be required for changind, migrating, and deleting a user account. Next section will cover steps required to change your account's _password_.
+In this section, we covered essential steps that may be required for changind, migrating, and deleting a user account. Next section will cover steps required to [Change your account's password](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/ui-components/code/).
