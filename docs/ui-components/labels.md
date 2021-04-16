@@ -36,7 +36,7 @@ To change your name, you need to take 2 steps.
 
 !["Changing Public Name"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/EditName.png?raw=true)
 
-**2.** Click the green **Update profile** button in the middle of the page.
+**2.** Click the green **Update profile** button at the bottom middle of the page.
 
 ---
 
@@ -62,7 +62,7 @@ In addition to editing your profile name and picture, you may add other optional
 
 !["Edit Profile info"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/EditAdditionalInfo.png?raw=true)
 
-**2.** Click on the green **Update profile** button in the middle of the page.
+**2.** Click on the green **Update profile** button at the bottom middle of the page.
 
 ---
 
