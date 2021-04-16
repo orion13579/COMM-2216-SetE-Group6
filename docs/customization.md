@@ -26,7 +26,6 @@ The following set of instructions will teach you how to create and delete reposi
 
 ## Creating a Repository 
 
-<br/><br/>
 
 **1.** First, you must be logged into your GitHub account. 
 
@@ -42,7 +41,7 @@ The following set of instructions will teach you how to create and delete reposi
 
 <br/><br/>
 
-**4.**Then in this *Create a New Repository* page, please enter a name for your repository in the *Repository name* section and you may put a description in if you wish. 
+**4.** Then in this *Create a New Repository* page, please enter a name for your repository in the *Repository name* section and you may put a description in if you wish. 
 
 **5.** Right below the description you can choose to keep the repository **Public** (anyone can see) or **Private** (you choose who sees). 
 
@@ -58,7 +57,6 @@ You have successfully created a repository and you can access it on *Your Reposi
 
 ## Deleting a Repository 
 
-<br/><br/>
 
 **1.** To delete a repository, you must first be on *Your Repositories* page and left click on the repository that you want to delete. 
 
@@ -80,7 +78,7 @@ Then scroll down to the bottom of this page and you should see a *Danger Zone* s
 
 <br/><br/>
 
-**4.**  Left click the  **Delete this repository** button and a pop-up will appear for you to confirm to delete this repository. 
+**4.** Left click the  **Delete this repository** button and a pop-up will appear for you to confirm to delete this repository. 
 
 |   !["Warning Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Warning.png?raw=true){: style="float: left"} **Warning:** If you follow through with the next step, the repository will be deleted and cannot be retrieved.
 
