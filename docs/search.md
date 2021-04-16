@@ -22,4 +22,4 @@ nav_order: 5
 **File Extension** - an indicator located at the end of a filename after the ‘.’ to indicate the type of a file.
 
 
-**Commit**  - Saves changes to your local repository.This is a more advanced topic involved with version control and Git, which will not be discussed here
+**Commit**  - Saves changes to your local repository. This is a more advanced topic involved with version control and Git, which will not be discussed here
