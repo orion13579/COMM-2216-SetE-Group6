@@ -58,8 +58,8 @@ In addition to editing your profile name and picture, you may add other optional
 
 !["Edit Profile info"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/EditAdditionalInfo.png?raw=true)
 
-**2.** Click the green **Update profile** button in the middle of the page.
+**2.** Click on the green **Update profile** button in the middle of the page.
 
 ---
 
-Here, we covered the essential parts of the profile section. In the next section, you can find instructions related to your [user account](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/ui-components/line-nos/).
+Here, we covered the essential parts of the _profile_ section. In the next section, you can find instructions related to  [Changing, Migrating, and Deleting a User Account](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/ui-components/line-nos/).
