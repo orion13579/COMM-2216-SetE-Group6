@@ -15,9 +15,9 @@ After signing up and logging in for the first time, you would be able to access 
 
 The one described here will be your default choice, as it allows you to access the full configuration of the _User Profile_ page from any other page inside your account.
 
-|   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** The second choice, which by clicking on the green **Edit profile** button redirects you to the same _User Profile_ section of the _Settings_ page, is only available as an initial tip to first-time users.
+|   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** The second choice, which by clicking on the green **Edit profile** button redirects you to the same _User Profile_ section of the _Settings_ page. However, this is only available as an initial tip for first-time users.
 
-**1.** Click on the most most right-side button of the navigation page to open the menu.
+**1.** Click on the profile image, the most right-side button of the page navigation bar to open the menu.
 
 !["Steps to access Settings from the Home Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/HomePageToProfile-edited2.png?raw=true)
 
