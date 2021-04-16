@@ -10,11 +10,11 @@ nav_order: 4
 
 ---
 
-Though GitHub is not usually used as an interface for writing code, it does have the functionality to create, edit, delete files and create folders. 
+Though GitHub is not usually used as an interface for writing code, it does have the functionality to create, edit, and delete files.
 
-This section’s goal is to explain and show you how to use these file manipulation techniques to add to your repositories. If you really wanted to, by the end of this section, you could start programming your applications in GitHub instead of an IDE.
+This section’s goal is to explain and show you how to use these file manipulation techniques to add to your repositories. If you really wanted to, by the end of this section, you could start writing your applications in GitHub instead of an IDE. However, you couldn't run them direclty from GitHub unfortunately.
 
-To start, let’s create a repository. You can follow the previous, “Create / Delete a Repository”, task instructions if you need a refresher.
+To start, let’s create a repository. You can follow the previous, [“Creating and Deleting Repositories”](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/customization/), task instructions if you need a refresher.
 
 ---
 
@@ -28,13 +28,18 @@ To start, let’s create a repository. You can follow the previous, “Create / 
 
 ## Create a File
 
-Depending on how the repository was created, with or without a README file, your repository page will look slightly different. Please see the two possible cases below, an empty repository / a repository with a file already in it,  to see what case matches your situation.
+Depending on how the repository was created, with or without a README file, your repository page will look slightly different. 
 
-<br/><br/>
+If you cretaed an empty repository with no files whatsoever, please refer to the ["Create a File From An Empty Repository"](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#create-a-file-from-an-empty-repository) subsection. 
+On the other hand, if you created a repository with a README file or you are adding a new file to an existing repository already containg files, please refer to the ["Create a File From a Repository Already Containing a File"](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#create-a-file-from-a-repository-already-containing-a-file) subsection. 
+
+Please refer to the relevant subsection and we'll walk you through how to create a new file.
+
+<br/>
 
 ### Create a File From An Empty Repository
 
-This case shows you how to create a file from a completely empty repository containing no files. For reference, your page should look similar to the image below.
+This subsection shows you how to create a file from a completely empty repository containing no files. For reference, your page should look similar to the image below.
 
 !["Empty GitHub Repository Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image1EmptyRepositoryWebpage.PNG?raw=true)
 
@@ -50,15 +55,15 @@ If this step was successful, you should see a new empty file page, as shown belo
 
 !["New Empty File Editing Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image3NewEmptyFileEditingPage.PNG?raw=true)
 
-Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the [“Writing and Commiting a File”](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#writing-and-commiting-a-file) subsection.
+Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the [“Writing and Commiting a File”](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#writing-and-commiting-a-file) section.
 
-|   **Caution:** If you do not complete the “Writing and Commiting a File” task the file will not be saved.
+|   !["Caution Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Caution.png?raw=true){: style="float: left"} **Caution:** If you do not complete the “Writing and Commiting a File” section the file will not be saved.
 
 <br/><br/>
 
 ### Create a File From a Repository Already Containing a File
 
-This case shows you how to create a file from a repository already containing a file. For reference, your page should look similar to the image below.
+This subsection shows you how to create a file from a repository already containing a file. For reference, your page should look similar to the image below.
 
 !["GitHub Repository Page Already Containing Files"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image4RepositoryAlreadyContainingFiles.PNG?raw=true)
 
@@ -66,21 +71,23 @@ An easy way to check if this page matches your page is to look for the command b
 
 !["GitHub Repository Page Already Containing Files Identifier Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image5RepositoryAlreadyContainingFilesIdentifierHighlight.PNG?raw=true)
 
-If you see the command line highlighted by the red box above, then this instructions is for you. Please note that other features of this page may differ depending on how many and what type of files you have in your repository already.
+|   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** Other features of this page may differ depending on how many and what type of files you have in your repository already.
+
+<br/>
 
 **1.** Click on the **Add File** button, in the previously mentioned command line, highlighted above
 
-The **Add File** button has been highlighted in the image below.
+For clarification, the **Add File** button has been highlighted in the image below.
 
 !["GitHub Repository Page Already Containing Files Add File Button Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image6RepositoryAlreadyContainingFilesAdFileButtonHighlight.PNG?raw=true)
 
-When the **Add File** button is clicked, a dropdown should appear below the Add File button as shown below.
+When the **Add File** button is clicked, a dropdown should appear below the **Add File** button as shown below.
 
 !["Add File Button Dropdown"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image7AddFileDropdownZoomIn.png?raw=true)
 
 **2.** Click on the **Create new file** dropdown button
 
-This button has been highlighted in the image below.
+For clarification, this button has been highlighted in the image below.
 
 !["Add File Button Dropdown Create New File Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image8AddFileDropdownZoomInCreateNewFileHighlight.png?raw=true)
 
@@ -88,23 +95,27 @@ If this step was successful, you should see a new empty file page, as shown belo
 
 !["New Empty File Editing Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image3NewEmptyFileEditingPage.PNG?raw=true)
 
-Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the “Writing and Commiting a File” subsection.
+Now you have successfully created a new file, but to edit and save it to your repository, please proceed to the [“Writing and Commiting a File”](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#writing-and-commiting-a-file) section.
+
+|   !["Caution Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Caution.png?raw=true){: style="float: left"} **Caution:** If you do not complete the “Writing and Commiting a File” section the file will not be saved.
 
 ---
 
 ## Writing and Commiting a File
 
-Now that you have created or edited a file,you should now be at the file editing screen as shown below. 
+Now that you have created or edited a file, you should now be at the file editing screen as shown below.
 
 !["File Editing Page Features"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image9FileEditingPageFeatures.PNG?raw=true)
 
 This is where you can modify the contents, name, location, or even type of your file.
 
 The top of this page has two important features:
-[]The top of this page has two important features: 
-
-1.  This text box is where you can input or edit the file name and type of your file. 
-2.  This is where you can modify the contents of your file by adding, editing, or removing lines of code.
+<ol type="A">
+  <li>This text box is where you can input or edit the file name and type of your file.</li>
+  <li>This is where you can modify the contents of your file by adding, editing, or removing lines of code.</li>
+</ol>
+(A)  This text box is where you can input or edit the file name and type of your file.
+(B)  This is where you can modify the contents of your file by adding, editing, or removing lines of code.
 
 **1.** Give this file a name.
 
