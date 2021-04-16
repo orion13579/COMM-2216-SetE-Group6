@@ -43,19 +43,25 @@ This will take you to *Your Repositories* page.
 
 !["New button on Your repositories page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/New%20Repositories.png?raw=true) 
 
-<br/><br/>
-
-**5.** Then in this *Create a New Repository* page, please enter a name for your repository in the *Repository name* section and you may put a description in if you wish. 
-
-**6.** Right below the description you can choose to keep the repository **Public** (anyone can see) or **Private** (you choose who sees). 
-
-**7.** Finally, left click **Create repository** at the bottom of the page. 
-
-!["Create a new repository page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Create%20Repository.png?raw=true) 
+This will send you to the *Create a New Repository* page.
 
 <br/><br/>
 
-You have successfully created a repository and you can access it on *Your Repositories* page. 
+**5.** Enter a name for your repository in the *Repository name* section and you may put a description in if you wish. 
+
+|   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** You can give the repository an optional description as well. 
+
+**6.** Right below the description you can choose to keep the repository **Public** (anyone can see) or **Private** (you choose who sees).
+
+**6.** Select one of the **Public** (anyone can see) or **Private** (you choose who sees) bubbles, located below the optional description.
+
+**7.** Click **Create repository** at the bottom of the page.
+
+!["Create a new repository page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Create%20Repository.png?raw=true)
+
+<br/><br/>
+
+You have successfully created a repository and you can access it on *Your Repositories* page.
 
 ---
 
