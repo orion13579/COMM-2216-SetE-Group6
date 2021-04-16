@@ -31,9 +31,10 @@ To start, let’s create a repository. You can follow the previous, [_Creating a
 Depending on how the repository was created, with or without a README file, your repository page will look slightly different. 
 
 If you cretaed an empty repository with no files whatsoever, please refer to the [_Create a File From An Empty Repository_](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#create-a-file-from-an-empty-repository) subsection.
+
 On the other hand, if you created a repository with a README file or you are adding a new file to an existing repository already containg files, please refer to the [_Create a File From a Repository Already Containing a File_](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#create-a-file-from-a-repository-already-containing-a-file) subsection.
 
-Please refer to the relevant subsection and we'll walk you through how to create a new file.
+Please go to the relevant subsection and we'll walk you through how to create a new file.
 
 <br/>
 
@@ -48,10 +49,12 @@ You should see some instructions that look complicated, but you don’t need to 
 **1.** Click on the **creating a new file** hyperlink, in the _Quick setup_ Section.
 
 For clarification, the hyperlink location is marked by the red box in the image below.
+{: .pl-4 }
 
 !["Empty GitHub Repository Page Create a New File Hyperlink Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image2EmptyRepositoryWebpageCreateAFileHyperLinkHighlight.PNG?raw=true)
 
 If this step was successful, you should see a new empty file page, as shown below.
+{: .pl-4 }
 
 !["New Empty File Editing Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image3NewEmptyFileEditingPage.PNG?raw=true)
 
@@ -67,7 +70,8 @@ This subsection shows you how to create a file from a repository already contain
 
 !["GitHub Repository Page Already Containing Files"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image4RepositoryAlreadyContainingFiles.PNG?raw=true)
 
-An easy way to check if this page matches your page is to look for the command bars highlighted by the red box in the image below. 
+An easy way to check if this page matches your page is to look for the command bars highlighted by the red box in the image below.
+{: .pl-4 }
 
 !["GitHub Repository Page Already Containing Files Identifier Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image5RepositoryAlreadyContainingFilesIdentifierHighlight.PNG?raw=true)
 
@@ -78,20 +82,24 @@ An easy way to check if this page matches your page is to look for the command b
 **1.** Click on the **Add File** button, in the previously mentioned command line, highlighted above
 
 For clarification, the **Add File** button has been highlighted in the image below.
+{: .pl-4 }
 
 !["GitHub Repository Page Already Containing Files Add File Button Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image6RepositoryAlreadyContainingFilesAdFileButtonHighlight.PNG?raw=true)
 
 When the **Add File** button is clicked, a dropdown should appear below the **Add File** button as shown below.
+{: .pl-4 }
 
 !["Add File Button Dropdown"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image7AddFileDropdownZoomIn.png?raw=true)
 
 **2.** Click on the **Create new file** dropdown button
 
 For clarification, this button has been highlighted in the image below.
+{: .pl-4 }
 
 !["Add File Button Dropdown Create New File Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image8AddFileDropdownZoomInCreateNewFileHighlight.png?raw=true)
 
 If this step was successful, you should see a new empty file page, as shown below.
+{: .pl-4 }
 
 !["New Empty File Editing Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image3NewEmptyFileEditingPage.PNG?raw=true)
 
@@ -110,7 +118,7 @@ Now that you have created or edited a file, you should now be at the file editin
 This is where you can modify the contents, name, location, or even type of your file.
 
 The top of this page has two important features:
-<ol list-style-type="upper-alpha">
+<ol type="a">
   <li>This text box is where you can input or edit the file name and type of your file.</li>
   <li>This is where you can modify the contents of your file by adding, editing, or removing lines of code.</li>
 </ol>
@@ -118,6 +126,7 @@ The top of this page has two important features:
 **1.** Give this file a name.
 
 For example, we gave our file the name “testFile” as seen below:
+{: .pl-4 }
 
 !["Add File Name"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image10AddFileName.PNG?raw=true)
 
@@ -130,19 +139,24 @@ For example, we gave our file the name “testFile” as seen below:
 **3.** Add some file contents.
 
 Any content is fine, you could also make no changes. In our case, we added the following contents.
+{: .pl-4 }
 
 !["Sample File Contents"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image12SampleFileContentsAdded.PNG?raw=true)
 
 **4.** Scroll to the bottom of the page.
 
 At the very bottom of the page you should see a Commit Changes section, as shown below.
+{: .pl-4 }
 
 !["File Commit Box"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image13CommitFileBox.PNG?raw=true)
 
 **5.** Write a descriptive commit message.
 
 You can add a descriptive message to your commits to help track the changes you have made to your file. This is not mandatory, you can leave the message as it’s default if you would prefer.
+{: .pl-4 }
+
 For example, we left our commit message as the default message “Update testFile.py”, but your default message may be different.
+{: .pl-4 }
 
 !["File Commit Box Commit Message Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image14CommitFileBoxMessgaeHighlight.PNG?raw=true)
 
@@ -150,7 +164,7 @@ For example, we left our commit message as the default message “Update testFil
 
 !["File Commit Box Commit Changes Button Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image15CommitFileBoxCommitChangesButtonHighlight.PNG?raw=true)
 
-This will save your file changes to your repository.
+Your file changes have now been saved to your repository.
 
 ---
 
@@ -179,7 +193,7 @@ If successful, you should arrive at the file specific screen that looks similar 
 !["File Specifc Page Features"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image18FileSpecificPage.PNG?raw=true)
 
 Some key feature of this page include:
-<ol list-style-type="upper-alpha">
+<ol type="a">
   <li>This is the path to the file you selected. In this example, the path shows that you are looking at the “testFile.py” file in the “test” repository. This path may be different for you depending on what you named your repository and files.</li>
   <li>This area provides general file information such as how many lines are in your file and the size of your file.</li>
   <li>These are the main tools for manipulating your files. We will only be looking at the pencil and trashcan tool in this instruction manual.</li>
