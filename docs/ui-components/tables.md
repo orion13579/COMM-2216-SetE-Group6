@@ -5,7 +5,7 @@ parent: Account Settings Configuration
 nav_order: 1
 ---
 
-# Accessing the Settings page
+# **Accessing the Settings Page**
 
 ---
 

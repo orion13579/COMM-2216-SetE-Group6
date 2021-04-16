@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/ui-components
 ---
 
-# Account Settings Configuration
+# **Account Settings Configuration**
 {: .no_toc }
 
 ---

@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 
-# Creating, Modifying, and Deleting Files in GitHub
+# **Creating, Modifying, and Deleting Files in GitHub**
 {: .no_toc }
 
 ---

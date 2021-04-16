@@ -5,7 +5,7 @@ parent: Account Settings Configuration
 nav_order: 2
 ---
 
-# Profile section
+# **Profile Section**
 {: .no_toc }
 
 ---

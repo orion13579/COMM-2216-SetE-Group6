@@ -4,7 +4,7 @@ title: Troubleshooting
 nav_order: 6
 ---
 
-# Troubleshooting
+# **Troubleshooting**
 {: .no_toc }
 
 ## Table of contents
