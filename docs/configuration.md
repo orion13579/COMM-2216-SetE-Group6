@@ -14,7 +14,7 @@ Though GitHub is not usually used as an interface for writing code, it does have
 
 This section’s goal is to explain and show you how to use these file manipulation techniques to add to your repositories. If you really wanted to, by the end of this section, you could start writing your applications in GitHub instead of an IDE. However, you couldn't run them direclty from GitHub unfortunately.
 
-To start, let’s create a repository. You can follow the previous, [“Creating and Deleting Repositories”](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/customization/), task instructions if you need a refresher.
+To start, let’s create a repository. You can follow the previous, [_Creating and Deleting Repositories_](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/customization/), task instructions if you need a refresher.
 
 ---
 
@@ -127,7 +127,7 @@ For example, we gave our file the name “testFile” as seen below:
 
 !["Add File Extension"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image11AddFileExtension.PNG?raw=true)
 
-|   **Note:** You can give your file any common extensions used in common programming languages, but the doc notation is mandatory for the file extension.
+|   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** You can give your file any common extensions used in common programming languages, such as ".py", ".c", ".java", etc. However, the dot notation is mandatory for the file extension.
 
 **3.** Add some file contents.
 
@@ -144,11 +144,11 @@ At the very bottom of the page you should see a Commit Changes section, as shown
 **5.** Write a descriptive commit message.
 
 You can add a descriptive message to your commits to help track the changes you have made to your file. This is not mandatory, you can leave the message as it’s default if you would prefer.
-For example, we left our commit message as the default message “Update testFile.py”, but your default message may be diff]reret.
+For example, we left our commit message as the default message “Update testFile.py”, but your default message may be different.
 
 !["File Commit Box Commit Message Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image14CommitFileBoxMessgaeHighlight.PNG?raw=true)
 
-**6.** Click **Commit changes** button.
+**6.** Click the **Commit changes** button.
 
 !["File Commit Box Commit Changes Button Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image15CommitFileBoxCommitChangesButtonHighlight.PNG?raw=true)
 
@@ -160,9 +160,9 @@ This will save your file changes to your repository.
 
 Once a file is created it is not immutable, you can edit it’s contents, name, location, and even it’s type.
 
-This section will show you how to access a file and edit it in the above mentioned ways.
+This section will show you how to access an already created file's editing page.
 
-To start, you should have your repository opened to it’s home page, with at least one file already in it. If your repository is empty, please refer to the Create a File instructions above.
+To start, you should have your repository opened to it’s home page, with at least one file already in it. If your repository is empty, please refer to the ["Create a File From An Empty Repository"](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#create-a-file-from-an-empty-repository) section for a refresher.
 
 At this point your screen should look similar to the image below.
 
@@ -170,7 +170,7 @@ At this point your screen should look similar to the image below.
 
 **1.** Click on the name of the file you want to edit.
 
-The image below shows the general location of the file names.
+For clarification, the image below shows the general location of the file names.
 
 !["Repository Containing a File, File Name Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image17RepositoryContainingAFileFileNameHighlight.PNG?raw=true)
 
@@ -191,7 +191,7 @@ Some key feature of this page include:
 
 !["File Specifc Page, Edit File Icon Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image19FileSpecificPageEditHighlight.PNG?raw=true)
 
-If this step was successful, you should see the editing page for your file, as discussed in the “Writing and Commiting a File” subsection.
+If this step was successful, you should see the editing page for your file, as discussed in the [“Writing and Commiting a File”](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/#writing-and-commiting-a-file) section.
 
 ---
 
