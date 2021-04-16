@@ -8,6 +8,8 @@ permalink: /
 
 
 # Introduction
+
+---
 {: .no_toc }
 
 The purpose of this document is to help new users perform basic actions on the GitHub browser. The sections of this document will guide users from the moment after they have created a GitHub account through learning how to create repositories, populate those repositories with files, and personalize their profile.
