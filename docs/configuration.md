@@ -46,6 +46,8 @@ This subsection shows you how to create a file from a completely empty repositor
 
 You should see some instructions that look complicated, but you don’t need to worry about any of these right now. We’re only going to be working in GitHub, so if your repository looks similar to this, please proceed.
 
+<br/>
+
 **1.** Click on the **creating a new file** hyperlink, in the _Quick setup_ Section.
 
 For clarification, the hyperlink location is marked by the red box in the image below.
@@ -91,6 +93,8 @@ When the **Add File** button is clicked, a dropdown should appear below the **Ad
 
 !["Add File Button Dropdown"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image7AddFileDropdownZoomIn.png?raw=true)
 
+<br/>
+
 **2.** Click on the **Create new file** dropdown button
 
 For clarification, this button has been highlighted in the image below.
@@ -125,6 +129,8 @@ A) This text box is where you can input or edit the file name and type of your f
 B) This is where you can modify the contents of your file by adding, editing, or removing lines of code.
 {: .pl-4 }
 
+<br/>
+
 **1.** Give this file a name.
 
 For example, we gave our file the name “testFile” as seen below:
@@ -132,11 +138,15 @@ For example, we gave our file the name “testFile” as seen below:
 
 !["Add File Name"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image10AddFileName.PNG?raw=true)
 
+<br/>
+
 **2.** Give this file an extension.
 
 !["Add File Extension"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image11AddFileExtension.PNG?raw=true)
 
 |   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** You can give your file any common extensions used in common programming languages, such as ".py", ".c", ".java", etc. However, the dot notation is mandatory for the file extension.
+
+<br/>
 
 **3.** Add some file contents.
 
@@ -145,12 +155,16 @@ Any content is fine, you could also make no changes. In our case, we added the f
 
 !["Sample File Contents"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image12SampleFileContentsAdded.PNG?raw=true)
 
+<br/>
+
 **4.** Scroll to the bottom of the page.
 
 At the very bottom of the page you should see a Commit Changes section, as shown below.
 {: .pl-4 }
 
 !["File Commit Box"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image13CommitFileBox.PNG?raw=true)
+
+<br/>
 
 **5.** Write a descriptive commit message.
 
@@ -161,6 +175,8 @@ For example, we left our commit message as the default message “Update testFil
 {: .pl-4 }
 
 !["File Commit Box Commit Message Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image14CommitFileBoxMessgaeHighlight.PNG?raw=true)
+
+<br/>
 
 **6.** Click the **Commit changes** button.
 
@@ -182,6 +198,8 @@ At this point your screen should look similar to the image below.
 
 !["Repository Containing a File"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image16RepositoryContainingAFile.PNG?raw=true)
 
+<br/>
+
 **1.** Click on the name of the file you want to edit.
 
 For clarification, the image below shows the general location of the file names.
@@ -198,14 +216,22 @@ If successful, you should arrive at the file specific screen that looks similar 
 !["File Specifc Page Features"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image18FileSpecificPage.PNG?raw=true)
 
 Some key feature of this page include:
-<ol type="a">
-  <li>This is the path to the file you selected. In this example, the path shows that you are looking at the “testFile.py” file in the “test” repository. This path may be different for you depending on what you named your repository and files.</li>
-  <li>This area provides general file information such as how many lines are in your file and the size of your file.</li>
-  <li>These are the main tools for manipulating your files. We will only be looking at the pencil and trashcan tool in this instruction manual.</li>
-  <li>This section contains the contents of your file. In this example we only have a single line in our file, but if you had many lines you could see them all here.</li>
-</ol>
+
+A) This is the path to the file you selected. In this example, the path shows that you are looking at the “testFile.py” file in the “test” repository. This path may be different for you depending on what you named your repository and files.
+{: .pl-4 }
+
+B) This area provides general file information such as how many lines are in your file and the size of your file.
+{: .pl-4 }
+
+C) These are the main tools for manipulating your files. We will only be looking at the pencil and trashcan tool in this instruction manual.
+{: .pl-4 }
+
+D) This section contains the contents of your file. In this example we only have a single line in our file, but if you had many lines you could see them all here.
+{: .pl-4 }
 
 |   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** An easy way to return to your main repository page is that you can click on any parent directories, such as the “test” repository in the path mentioned above.
+
+<br/>
 
 **2.** Click on the pencil icon.
 
@@ -225,6 +251,8 @@ At this point your screen should look similar to the image below.
 
 !["Repository Home Page Containing a File"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image16RepositoryContainingAFile.PNG?raw=true)
 
+<br/>
+
 **1.** Click on the name of the file you want to delete.
 
 For clarification, the image below shows the general location of the file names.
@@ -240,6 +268,8 @@ If successful, you should arrive at the file specific screen that looks similar 
 
 !["File Specifc Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image20FileSpecificPage.PNG?raw=true)
 
+<br/>
+
 **2.** Click on the trashcan icon to delete the file.
 
 !["File Specifc Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image21FileSpecificPageDeleteIconHighlight.PNG?raw=true)
@@ -253,12 +283,16 @@ After the icon has been clicked, you should now see the file delete page as show
 
 !["Delete File Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image23DeleteFilePage.PNG?raw=true)
 
+<br/>
+
 **3.** Scroll to the bottom of the page.
 
 For clarification, the page should look similar to below.
 {: .pl-4 }
 
 !["Delete File Page Botton Of Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image24DeleteFilePageBottomOfPage.PNG?raw=true)
+
+<br/>
 
 **4.** Click on the **Commit changes** button.
 
