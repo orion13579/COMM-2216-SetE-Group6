@@ -36,7 +36,7 @@ The following set of instructions will teach you how to create and delete reposi
 
 This will take you to *Your Repositories* page.
 
-<br/><br/>
+<br/>
 
 **4.** Left click the green **New** button, just below your profile picture in the top-right corner of your screen.
 
@@ -44,7 +44,7 @@ This will take you to *Your Repositories* page.
 
 This will send you to the *Create a New Repository* page.
 
-<br/><br/>
+<br/>
 
 **5.** Enter a name for your repository in the *Repository name* section. 
 
@@ -56,7 +56,7 @@ This will send you to the *Create a New Repository* page.
 
 !["Create a new repository page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Create%20Repository%203.png?raw=true)
 
-<br/><br/>
+<br/>
 
 You have successfully created a repository and you can access it on *Your Repositories* page.
 
@@ -74,13 +74,13 @@ To delete a repository, you must first be on *Your Repositories* page.
 
 This will take you to the settings page, where you should see the *Settings* header in the middle of the page.
 
-<br/><br/>
+<br/>
 
 **3.** You should see the *Settings* header in the middle of the page. If you do not, then please left click on the **Options** section on the left side of the page.
 
 !["Settings options sidebar"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Settings%20Options.png?raw=true)
 
-<br/><br/>
+<br/>
 
 **4.** Scroll down to the bottom of this page.
 
@@ -88,7 +88,7 @@ You should see a *Danger Zone* section with the, Delete this repository, button 
 
 !["Danger zone section in settings of a repository"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Danger%20Zone.png?raw=true)
 
-<br/><br/>
+<br/>
 
 **5.** Left click the **Delete this repository** button.
 
@@ -100,12 +100,14 @@ A pop-up will appear for you to confirm to delete this repository.
 
 !["Confirmation to delete a respository"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Delete%20Repository.png?raw=true)
 
-<br/><br/>
+<br/>
 
 **5.** Click the **I understand the consequences, delete this repository** button.
 
 **6.** It may then ask you to confirm access by typing in your GitHub account password. Enter your password and left click confirm. 
 
 The repository has been successfully deleted on GitHub. If you go to *Your Repositories* page, the deleted repository will not appear. 
+
+---
 
 You have now learned how to create and delete a repository on GitHub. Next step is to learn how to [Create, Modify, And Delete Files](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/configuration/) in your repository.
