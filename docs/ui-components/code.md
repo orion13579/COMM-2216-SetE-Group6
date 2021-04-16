@@ -33,4 +33,4 @@ To change your password, you need to follow 3 simple steps on the _Account secur
 
 ---
 
-Here, we covered steps that are required to change your password. In the next section, instructions related to the connected email accounts to your GitHub account will be covered.
+Here, we covered steps that are required to change your password. In the next section, instructions related to the connected [Email accounts](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/ui-components/typography/) to your GitHub account will be covered.

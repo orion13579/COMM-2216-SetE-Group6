@@ -86,4 +86,4 @@ At this point, you will receive a confirmation message in a pop-up window.
 
 ---
 
-In this section, we covered essential steps that may be required for changind, migrating, and deleting a user account. Next section will cover steps required to change your account's _password_.<https://orion13579.github.io/COMM-2216-SetE-Group6/docs/ui-components/code/>
+In this section, we covered essential steps that may be required for changind, migrating, and deleting a user account. Next section will cover steps required to [Change your account's password](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/ui-components/code/).

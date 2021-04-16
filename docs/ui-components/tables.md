@@ -29,3 +29,5 @@ At this point, you will be redirected to the _User Profile_ section of the _Sett
 !["Four covered sections of Settings"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/SettingsMainPage-edited.png?raw=true)
 
 By clicking on each item of the left sidebar, different sections of this _Settings_ page can be chosen. In the next instructions of this _Account Settings Configuration_ topic, the essential parts from 4 of these sections will be covered to help you set up the basic configuration.
+
+You change your account's profile, proceed to the [Profile section](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/ui-components/labels/) of this instruction manual.
