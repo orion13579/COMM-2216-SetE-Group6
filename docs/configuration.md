@@ -103,13 +103,17 @@ Now you have successfully created a new file, but to edit and save it to your re
 
 ## Writing and Commiting a File
 
-Now that you have created or edited a file,you should now be at the file editing screen as shown below.
+Now that you have created or edited a file, you should now be at the file editing screen as shown below.
 
 !["File Editing Page Features"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image9FileEditingPageFeatures.PNG?raw=true)
 
 This is where you can modify the contents, name, location, or even type of your file.
 
 The top of this page has two important features:
+<ol type="A">
+  <li>This text box is where you can input or edit the file name and type of your file.</li>
+  <li>This is where you can modify the contents of your file by adding, editing, or removing lines of code.</li>
+</ol>
 (A)  This text box is where you can input or edit the file name and type of your file.
 (B)  This is where you can modify the contents of your file by adding, editing, or removing lines of code.
 
