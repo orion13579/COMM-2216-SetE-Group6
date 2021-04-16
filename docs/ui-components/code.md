@@ -25,7 +25,7 @@ To change your password, you need to follow 3 simple steps on the _Account secur
 
 !["Changing password"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/UpdatingPassword.png?raw=true)
 
-**2.** Type your new password both in the _New password_ and _Confirm new password_ fields.
+**2.** Type your new password in the _New password_ as well as in the _Confirm new password_ fields.
 
 **3.** Click on **Update password** botton.
 
