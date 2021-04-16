@@ -1,72 +1,82 @@
-<p align="right">
-    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/just-the-docs/actions?query=workflow%3A%22Master+branch+CI%22"><img src="https://github.com/pmarsceill/just-the-docs/workflows/Master%20branch%20CI/badge.svg" alt="Build status"></a>
-</p>
-<br><br>
-<p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
-</p>
+To Do: should indicate to a reader who accesses your GitHub - an employer, for
+example - what the instructions are about, including the methods and processes you used to
+get to the final product.
 
-![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
+This kind of information can show the reader your understanding of key concepts, use of
+markdown, and use of other software to get to the final product. It is, in effect, a document that
+sells your skills in process and product.
 
-## Installation
+Example from Sam's sample: url = https://github.com/dl90/linux-basics
 
-Add this line to your Jekyll site's Gemfile:
+Overview of Linux Instruction Guide
 
-```ruby
-gem "just-the-docs"
-```
+Hello reader, our guide on Linux is meant to provide you with a basic and general understanding of the Linux system as well as how to use basic commands to navigate and use Linux.
 
-And add this line to your Jekyll site's `_config.yml`:
+The things we want to teach you in this site include how to:
 
-```yaml
-theme: just-the-docs
-```
+navigate back and forth between directories,
+create and assign admin privileges to new user accounts,
+create, modify, move, and delete files and directories,
+find and end processes, and
+understand how Linux commands work.
+How We Collaborated Together
+At the start of writing this guide, we would brainstorm our ideas in person during class for a topic as well as the essential details we would need to finish our guide.
 
-And then execute:
+Due to school closure as a result of COVID-19, we did not have the chance to communicate in person and we opted to use Slack as our main form of communication outside of classes.
 
-    $ bundle
+We kept in close contact with each other on Slack to be able to communicate effectively given our new circumstances. The quality of our work and our communication was never lowered during the entire process. We believed that communication would be the most vital part in finishing and creating a high-quality document.
 
-Or install it yourself as:
+How We Created Our Guide
+To finish our guide, we used many different applications, documentations, and concepts. We had to learn a wide array of concepts as well as implement programs and concepts we already knew.
 
-    $ gem install just-the-docs
+Using Markdown
+The first step in creating our guide was to use markdown as an effective and easy way to create a guide.
 
-Alternatively, you can run it inside Docker while developing your site
+We were both unfamiliar with the concept of writing documentation with markdown before creating this guide. We had to learn how to format and use certain syntax to create a readable guide.
 
-    $ docker-compose up
+Markdown provided us with an easy-to-read and easy-to-write text format that is universally used on many platforms. Since we are learning to become web-developers, markdown allows us to integrate code, command inputs, and HTML into our documents.
 
-## Usage
+We learned and implemented the use of headings, font weights, lists, indentation, breaks, code blocks, tables, and integrating links and images in our guide.
 
-[View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
+Using VS Code
+The main program we used to read and write was VS Code. We were introduced to VS Code at the very beginning of the full-stack web development program at BCIT which made using VS Code a clear choice.
 
-## Contributing
+Using a Style Guide
+To further aid us in writing our guide, we decided to use a styleguide by GNOME. The GNOME Documentation Style Guide provides users with clear and concise writing. We believe that this is extremely important when creating an instruction guide as a style guide allows us to easily convey to a reader why they should use the guide and what they are going to learn from the guide.
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Using a style guide allowed us to collaborate on a group project more easily since there were clear rules on how our document should be written, effectively lowering chances of potential arguments between us.
 
-### Submitting code changes:
+Using a Theme
+We opted to use one of the free themes from Jekyll to allow us to change the style and look of the guide. We chose the current theme due to the themes clean and professional look.
 
-- Open a [Pull Request](https://github.com/pmarsceill/just-the-docs/pulls)
-- Ensure all CI tests pass
-- Await code review
-- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
+To incorporate the Jekyll theme, we had to fork the Just the Docs theme and configured the yaml file to allow us to make all necessary code changes to the forked repository.
 
-### Design and development principles of this theme:
+Learning Best Practices For Web Writing
+To make our guide more easily readable, we relied heavily on the use of chunking. Chunking is a method of presenting information by splitting concepts into smaller "chunks" to allow readers to read and understand much more easily.
 
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
+To further readability, we opted to use a typography standard which helps readers know the difference between command inputs and user inputs, console outputs, key terms, and [keystrokes] to convey more importance towards parts which these were included.
 
-## Development
+We also wanted to divert more attention to important information by implementing icons so readers know to read and follow our instruction carefully.
 
-To set up your environment to develop this theme, run `bundle install`.
+The following icon indicates the reader to please pay attention to the following.
 
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+Note icon
 
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
+The following icon indicates please be careful with the following.
 
-## License
+Caution icon
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Conclusion
+Completing a guide using many concepts and applications foreign to us was no easy feat. However, through using effective communication and collaboration tools, we were able to complete our guide with very minimal problems.
+
+We learned that working in a group is extremely different than working alone on personal projects. The main thing we both learned was that in a group is that we all have different ideas of how things should be done or look and that these differences can cause issues.
+
+Due to working together on this project for a month, we came to learn how the other person works and were able to easily come to agreement with each other.
+
+Working as a group for a project was extremely beneficial to everyone involved and taught us better interpersonal skills. This project made us realize how nice working together as a group was and we enjoyed being able to work collectively as a team to create something that we are both proud of. We are looking forward to working on a project together if we are ever given the chance to.
+
+Thank you for reading our basics to Linux guide and we hope that you learned something by following through our instructions.
+
+This document was built on:
+
+Just the Docs
