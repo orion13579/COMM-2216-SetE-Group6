@@ -1,82 +1,61 @@
-To Do: should indicate to a reader who accesses your GitHub - an employer, for
-example - what the instructions are about, including the methods and processes you used to
-get to the final product.
+## Overview of GitHub Browser Basics Instruction Guide
 
-This kind of information can show the reader your understanding of key concepts, use of
-markdown, and use of other software to get to the final product. It is, in effect, a document that
-sells your skills in process and product.
+Our guide on GitHub Browser Basics is meant to provide you with the minimum skills you need to use GitHub as a standalone product and to introduce you to some of the valuable features it has available for developers.
+The major topics we want to cover in this instruction manual include:
+* Configuring your GitHub account settings.
+* Creating and deleting repositories.
+* Creating, modifying, and deleting files.
 
-Example from Sam's sample: url = https://github.com/dl90/linux-basics
+During the initial stages of the project, our team of three brainstormed various instruction manual ideas. We originally planned to create an instruction manual for advanced Git and GitHub features. However, due to the scale of these features, we scaled this project back to include solely basic GitHub features on a browser.
 
-Overview of Linux Instruction Guide
+For the execution of this project, we divided the work based on primary task, but kept in communication through Discord and Zoom. We had weekly meetings to check progress and set manual standards.
 
-Hello reader, our guide on Linux is meant to provide you with a basic and general understanding of the Linux system as well as how to use basic commands to navigate and use Linux.
+We were able to remain in near perfect contact using the various digital communication means at our disposal and were able to complete the project despite multiple simultaneously due deliverables.
 
-The things we want to teach you in this site include how to:
+We believe that the key success for a project are communication and planning. Which allowed us to balance all external work and this project.
 
-navigate back and forth between directories,
-create and assign admin privileges to new user accounts,
-create, modify, move, and delete files and directories,
-find and end processes, and
-understand how Linux commands work.
-How We Collaborated Together
-At the start of writing this guide, we would brainstorm our ideas in person during class for a topic as well as the essential details we would need to finish our guide.
+## Creation of Our Guide
+This guide involved the use of multiple different applications and coding languages including applications such as Visual Studio Code, languages such as Markdown and CSS, and themes such as Jekyll.
 
-Due to school closure as a result of COVID-19, we did not have the chance to communicate in person and we opted to use Slack as our main form of communication outside of classes.
+### Visual Studio Code
+The main application we used to create this instruction manual was Visual Studio Code, which we used in our Web Development course. It provides excellent functionality for writing Markdown, including a best practice style checker.
 
-We kept in close contact with each other on Slack to be able to communicate effectively given our new circumstances. The quality of our work and our communication was never lowered during the entire process. We believed that communication would be the most vital part in finishing and creating a high-quality document.
+### Markdown
+This was the main language used to create this instruction manual. This was the first time we worked with Markdown, so we had to learn it as we went. The results were that we found that markdown required less code than an equivalent website of the same style using HTML and CSS.
 
-How We Created Our Guide
-To finish our guide, we used many different applications, documentations, and concepts. We had to learn a wide array of concepts as well as implement programs and concepts we already knew.
+The main Markdown topics we learned included:
+* Headings
+* Lists
+* Indentation
+* Breaks
+* Code blocks 
+* Tables
+* Integrating links. 
+* Adding Images
+* Creating Boxes 
+* Adding CSS styles
 
-Using Markdown
-The first step in creating our guide was to use markdown as an effective and easy way to create a guide.
+These Markdown skills will be essential moving forward because all README files and documentation is usually written in Markdown, regardless of programming language.
 
-We were both unfamiliar with the concept of writing documentation with markdown before creating this guide. We had to learn how to format and use certain syntax to create a readable guide.
+### HTML / CSS 
+We used inline HTML and CSS elements and styles to supplement our Markdown and provide a more unique design. 
 
-Markdown provided us with an easy-to-read and easy-to-write text format that is universally used on many platforms. Since we are learning to become web-developers, markdown allows us to integrate code, command inputs, and HTML into our documents.
+### Jekyll Theme
+We used the Jekyll theme to structure our instruction manual because it simplified our website design, which freed us up to focus on the more essential content of our manual.
+This is a free, open-source theme that we forked and edited to suite our needs.
 
-We learned and implemented the use of headings, font weights, lists, indentation, breaks, code blocks, tables, and integrating links and images in our guide.
+### Readability and Images
+To improve the readability of our manual we used images heavily to clarify most steps allowing first time users to not get lost.
 
-Using VS Code
-The main program we used to read and write was VS Code. We were introduced to VS Code at the very beginning of the full-stack web development program at BCIT which made using VS Code a clear choice.
+### Testing
+We personally went through the process of following each task multiple times, under varying conditions to find any unusual bugs that could arise.
 
-Using a Style Guide
-To further aid us in writing our guide, we decided to use a styleguide by GNOME. The GNOME Documentation Style Guide provides users with clear and concise writing. We believe that this is extremely important when creating an instruction guide as a style guide allows us to easily convey to a reader why they should use the guide and what they are going to learn from the guide.
+## Conclusion
+This was not a trivial project because it involved not only reviewing the topic for our instruction manual, but also learning the skills needed to present our instruction manual. As a group we were able to effectively disperse the work amongst all members while keeping a unified front on all styling and design decisions.
 
-Using a style guide allowed us to collaborate on a group project more easily since there were clear rules on how our document should be written, effectively lowering chances of potential arguments between us.
+We learned the importance of clear and concise instructions that allow users to easily follow potentially complicated steps accurately. This in conjunction with the importance of accurate and clear documentation is the largest take away we had from this project.
 
-Using a Theme
-We opted to use one of the free themes from Jekyll to allow us to change the style and look of the guide. We chose the current theme due to the themes clean and professional look.
-
-To incorporate the Jekyll theme, we had to fork the Just the Docs theme and configured the yaml file to allow us to make all necessary code changes to the forked repository.
-
-Learning Best Practices For Web Writing
-To make our guide more easily readable, we relied heavily on the use of chunking. Chunking is a method of presenting information by splitting concepts into smaller "chunks" to allow readers to read and understand much more easily.
-
-To further readability, we opted to use a typography standard which helps readers know the difference between command inputs and user inputs, console outputs, key terms, and [keystrokes] to convey more importance towards parts which these were included.
-
-We also wanted to divert more attention to important information by implementing icons so readers know to read and follow our instruction carefully.
-
-The following icon indicates the reader to please pay attention to the following.
-
-Note icon
-
-The following icon indicates please be careful with the following.
-
-Caution icon
-
-Conclusion
-Completing a guide using many concepts and applications foreign to us was no easy feat. However, through using effective communication and collaboration tools, we were able to complete our guide with very minimal problems.
-
-We learned that working in a group is extremely different than working alone on personal projects. The main thing we both learned was that in a group is that we all have different ideas of how things should be done or look and that these differences can cause issues.
-
-Due to working together on this project for a month, we came to learn how the other person works and were able to easily come to agreement with each other.
-
-Working as a group for a project was extremely beneficial to everyone involved and taught us better interpersonal skills. This project made us realize how nice working together as a group was and we enjoyed being able to work collectively as a team to create something that we are both proud of. We are looking forward to working on a project together if we are ever given the chance to.
-
-Thank you for reading our basics to Linux guide and we hope that you learned something by following through our instructions.
+Thank you for reading our GitHub Brower Basics instruction manual. We hope that you will see the value and importance of understanding and using GitHub in the future.
 
 This document was built on:
-
-Just the Docs
+# [**Just the Docs**](https://github.com/pmarsceill/just-the-docs)
