@@ -12,7 +12,7 @@ nav_order: 4
 
 Though GitHub is not usually used as an interface for writing code, it does have the functionality to create, edit, and delete files.
 
-This section’s goal is to explain and show you how to use these file manipulation techniques to add to your repositories. If you really wanted to, by the end of this section, you could start writing your applications in GitHub instead of an IDE. However, you couldn't run them direclty from GitHub unfortunately.
+This section’s goal is to explain and show you how to use these file manipulation techniques to add to your repositories. If you really wanted to, by the end of this section, you could start writing your applications in GitHub instead of an _IDE_. However, you couldn't run them direclty from GitHub unfortunately.
 
 To start, let’s create a repository. You can follow the previous, [_Creating and Deleting Repositories_](https://orion13579.github.io/COMM-2216-SetE-Group6/docs/customization/), task instructions if you need a refresher.
 
@@ -118,10 +118,12 @@ Now that you have created or edited a file, you should now be at the file editin
 This is where you can modify the contents, name, location, or even type of your file.
 
 The top of this page has two important features:
-<ol type="a">
+<ol type=none>
   <li>This text box is where you can input or edit the file name and type of your file.</li>
   <li>This is where you can modify the contents of your file by adding, editing, or removing lines of code.</li>
 </ol>
+
+
 
 **1.** Give this file a name.
 
@@ -183,12 +185,15 @@ At this point your screen should look similar to the image below.
 **1.** Click on the name of the file you want to edit.
 
 For clarification, the image below shows the general location of the file names.
+{: .pl-4 }
 
 !["Repository Containing a File, File Name Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image17RepositoryContainingAFileFileNameHighlight.PNG?raw=true)
 
 Each file in your repository will have it’s own row, so look through the rows to find the file you want to edit.
+{: .pl-4 }
 
 If successful, you should arrive at the file specific screen that looks similar to below.
+{: .pl-4 }
 
 !["File Specifc Page Features"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image18FileSpecificPage.PNG?raw=true)
 
@@ -223,12 +228,15 @@ At this point your screen should look similar to the image below.
 **1.** Click on the name of the file you want to delete.
 
 For clarification, the image below shows the general location of the file names.
+{: .pl-4 }
 
 !["Repository Containing a File, File Name Hightlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image17RepositoryContainingAFileFileNameHighlight.PNG?raw=true)
 
 Each file in your repository will have it’s own row, so look through the rows to find the file you want to edit.
+{: .pl-4 }
 
 If successful, you should arrive at the file specific screen that looks similar to below.
+{: .pl-4 }
 
 !["File Specifc Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image20FileSpecificPage.PNG?raw=true)
 
@@ -241,23 +249,29 @@ If successful, you should arrive at the file specific screen that looks similar 
 !["File Specifc Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image22HoverOverTrashcanIcon.PNG?raw=true)
 
 After the icon has been clicked, you should now see the file delete page as shown below.
+{: .pl-4 }
 
 !["Delete File Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image23DeleteFilePage.PNG?raw=true)
 
 **3.** Scroll to the bottom of the page.
 
-The page should look similar to below.
+For clarification, the page should look similar to below.
+{: .pl-4 }
 
 !["Delete File Page Botton Of Page"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image24DeleteFilePageBottomOfPage.PNG?raw=true)
 
 **4.** Click on the **Commit changes** button.
 
 For clarification, the button can be found here.
+{: .pl-4 }
 
 !["Delete File Page Commit Changes Button"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image25DeleteFilePageBottomOfPageHighlightCommitChangesButton.PNG?raw=true)
 
 The file is now deleted, your page should now have returned to your repository page similar to below.
+{: .pl-4 }
 
 !["Repository Page With File Removed"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image26RepositoryAfterFileDeleted.PNG?raw=true)
 
-Now you should have all the tools you need to create, edit, and delete files in GitHub. This, in conjunction with the _Creating and Deleting Repositories_ instruction task allows you to create any project you may desire in GitHub. However, you unfortunately can’t run these programs through GitHub directly.
+---
+
+Now you should have all the tools you need to create, edit, and delete files in GitHub. This, in conjunction with the _Creating and Deleting Repositories_ instruction task allows you to create any project you may desire using GitHub. However, you unfortunately can’t run these programs through GitHub directly.
