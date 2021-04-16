@@ -35,6 +35,8 @@ If at any time you forget your GitHub account's password, you can follow these 5
 
 **5.** Follow the instructions that will be sent soon to your email account.
 
+---
+
 ## Cancelling Current Edits to File
 
 If you are editing a file and you make a mistake that you can't rectify. The easiest way to make sure nothing bad heppens is to just restart.
@@ -49,3 +51,20 @@ For clarification, the button has been marked by a red box in the image below.
 {: .pl-4 }
 
 !["Cancel File Changes Button Highlight"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image27CancelChangesFix.png?raw=true)
+
+---
+
+## Getting Lost in GitHub Fix
+
+Sometimes while working in GitHub you can end up on a page you are unfamilair with.
+
+If this situation occurs, you somtiems need a way to reorient yourself.
+
+To solve this problem do the following.
+
+**1.** Click your GitHub id or current repsoitory hyperlink, in the top left of the screen, to return to your home pages.
+
+For clarification, the hyperlinks has been marked by a red box in the image below.
+{: .pl-4 }
+
+!["Return home hyperlinks"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Section3Image28LostFix.png?raw=true)
