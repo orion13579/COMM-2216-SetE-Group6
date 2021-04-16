@@ -29,7 +29,7 @@ To change your password, you need to follow 3 simple steps on the _Account secur
 
 **3.** Click on **Update password** botton.
 
-|   **Note:** Leaving the page without clicking on this button will not make any updates to your account's password.
+|   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** Leaving the page without clicking on this button will not make any updates to your account's password.
 
 ---
 

@@ -20,7 +20,7 @@ During the sign up proccess to create your GitHub account, you have been asked t
 
 By following this section, you would be able to add other email addresses for such purposes, change your _Primary Email Address_ to another email address, and choose one of the available options for your _Backup Email Address_ if needed.
 
-|   **Note:** None of these steps are necessary if you do not intend to add other email accounts to your GitHub account.
+|   !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** None of these steps are necessary if you do not intend to add other email accounts to your GitHub account.
 
 ## Adding another Email Address
 
@@ -55,7 +55,7 @@ Once you add a secondary email address to your GitHub accound, you can change yo
 
 By following these steps, you can switch the setting for your backup email address between _Allow all verified emails_ and _Only allow primary email_.
 
-|  **Note:** As it is described on this page "Your backup GitHub email address will be used as an additional destination for security-relevant account notifications and can also be used for password resets".
+|  !["Note Symbol"](https://github.com/orion13579/COMM-2216-SetE-Group6/blob/gh-pages/assets/images/Note.png?raw=true){: style="float: left"} **Note:** As it is described on this page "Your backup GitHub email address will be used as an additional destination for security-relevant account notifications and can also be used for password resets".
 
 **1.** Click on the up/down arrows within the shown section.
 
